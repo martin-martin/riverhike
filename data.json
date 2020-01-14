@@ -280,123 +280,2344 @@
     },
     {
      "hero": {
-       "title": "",
-       "background": ""
+       "title": "Day 3 - Pacifica Galore",
+       "background": "mori_point_whales.jpg"
      },
       "notes": [
         {
-          "text": "",
+          "text": "Whales! I was sitting at Pacifica pier eating my breakfast, when a jogging lady asked me whether I had seen the whale. :o",
+          "image": ""
+        },
+        {
+          "text": "And then we watched into the foggy sea for a while... Birds went for my food and distracted me for a moment. Just the moment when he had surfaced the next time!",
+          "image": ""
+        },
+        {
+          "text": "But I kept watching, and she told me where to look. I had never seen a whale before! ... And then, suddenly: a fountain in the middle of the sea. A sigh of exhale that sprays the drops up to the sky. And a tiny distant black cutting through the surface.",
+          "image": ""
+        },
+        {
+          "text": "It was gone very fast, and already too far to be in sight the next time it would surface. And I saw it!\n: D\n<em>Didn't catch it, though ; )</em>",
+          "image": ""
+        },
+        {
+          "text": "Pacifica pier is a crazy spawning ground. I rushed from one side to the other, and out onto the pier, drawing looks from fishermen. Haha, we're doing the same pretty much! Getting up early to catch some. I wonder how many play GO. The pier surely is a good place for it.",
+          "image": "pacifica_catchers_of_sorts.png"
+        },
+        {
+          "text": "I might have to change my approach in noting the catches. Because now there are so many! I've caught Oddishes, a Seel, a Starmie, two Rapidash, a Voltorb, a Geodude, a Bellsprout, a Horsea, a Gastly, an Exeggcute, numerous Poliwags, and (both first time!): a Psyduck and a Goldeen, and even a Squirtle and a Charmander! And that just during maybe one hour in the morning!",
+          "image": ""
+        },
+        {
+          "text": "I also tried this (I just had to do it empirically...)\nAnd I really wanted that Vaporeon!",
           "image": ""
         },
         {
           "text": "",
+          "image": "gimme_vaporeon.gif"
+        },
+        {
+          "text": "Only later I learned about <a href='https://www.reddit.com/r/pokemongo/comments/4t0cpo/psa_how_to_force_your_eevee_to_evolve_into_your/' target='_blank'>this trick on reddit</a> to get the evolution you want. <a href='https://www.reddit.com/r/TheSilphRoad/comments/4vslur/how_the_eevee_naming_conventions_actually_work/' target='_blank'>(There's more to it, though)</a>.",
+          "image": ""
+        },
+        {
+          "text": "Personally I'm a little disappointed, and would have preferred if it was depending on the surroundings, as also many of the game versions <a href='http://pokemondb.net/pokedex/eevee#dex-flavor' target='_blank'>Pokédex entries suggest</a>.",
+          "image": ""
+        },
+        {
+          "text": "Now I've settled in a Starbucks in one of Pacifica's beach valleys (one I like less than the one I stayed at before, which was Sharp Park). Trying to figure out how to upload my page to webhosting, so that it could go online. I decided I'll simply put it up as a work-in-progress and then come to update it when I can, not only the content but also the appearance. Most probably no one will look at it anyways, and if so, there's a story of my progress involved : )",
+          "image": ""
+        },
+        {
+          "text": "I biked around the Pacifica Public Pier a few times and caught a bunch of Pokémon I never even saw before, since playing GO. It was pretty neat! I also totally grew to like the foggyness of that valley, it made a special atmosphere to everything, calm and cool and beautiful. And a little bit mysterious. It's still peculiar when coming from 6 months on the other side of those small hills, where fog never stays longer than until maybe 8 in the morning.",
+          "image": ""
+        },
+        {
+          "text": "After deciding I'd go bike North later on (there's a PkmGo event in SF tomorrow), I was heading South to take a closer look at the whales and charge my devices. Whales first.",
+          "image": ""
+        },
+        {
+          "text": "As the jogger lady had suggested, I hiked up Mori Point. ... The view was just plain amazing. Sea and crashing shores all around. And those bird flocks above the water, then a fountain, and a sight of a big black body surfacing for a moment. There are whales everywhere, and here you were able to see panoramic. I watched one of them pass along the coast from left to right. That took surprisingly long. It was calm, calmed me down. I enjoyed.",
+          "image": ""
+        },
+        {
+          "text": "There's this inital period of trying to capture things on camera. It is a bit of a frenzy sometimes. It is probably useless, as I haven't yet established a good way of dealing with those moments I capture. But I do it still, something about life being fleeting, something about the wish to share, something about the wish to keep and remember.\nBut my thought today was, that once that initial craze has passed, then I am able to sit and calm down. It's a wave. And if the situation lasts long enough, and if I am consciously staying around in the situation for long enough, then I can also just sit and look... And that's just what I did.\nWhales. : D",
+          "image": ""
+        },
+        {
+          "text": "Poor Krabby! Had a bad trainer... ->",
+          "image": "poor_krabby.jpg"
+        },
+        {
+          "text": "Me not being employed in a normal job, and not extremely working on a career, does have advantages that I sometimes also feel and think about. I really like to sleep a little during the day. Short naps! Naps in the sunshine, around midday, or early afternoon. It would be much more difficult to do this under different circumstances.",
+          "image": ""
+        },
+        {
+          "text": "I lied down up Mori point on the edge of the cliff. Sideways, so I could see the sea and the whale I had been watching, as he swam further North. The view was impressive. It was approaching noon, and the fog was still covering the sky completely. However, the sun was sending its warmth through the foggy blanket and this made it very comfortable to just lie around and doze while I looked out in the distance and then inside my brain's twirls...",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "whale_view.jpg"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "CP"
+          ],
+          "content": [
+              {
+                  "image": ["zubat.png"],
+                  "pokémon": "Zubat",
+                  "cp": "348"
+              },
+              {
+                  "image": ["weedle.png"],
+                  "pokémon": "Weedle",
+                  "cp": "237"
+              },
+              {
+                  "image": ["horsea.png"],
+                  "pokémon": "Horsea",
+                  "cp": "377"
+              },
+              {
+                  "image": ["sandshrew.png"],
+                  "pokémon": "Sandshrew",
+                  "cp": "435"
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+        "header": [
+            "Tinyimage",
+            "Pokémon",
+            "How many?",
+            "Where?",
+            "Infobox"
+        ],
+        "content": [
+            {
+                "tinyimage": ["vulpix.png"],
+                "pokémon": "Vulpix",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": "286 CP"
+            },
+            {
+                "tinyimage": ["bellsprout.png"],
+                "pokémon": "Bellsprout",
+                "how many?": "5",
+                "where?": "Pacifica Pier Region",
+                "infobox": "484 CP"
+            },
+            {
+                "tinyimage": ["voltorb.png"],
+                "pokémon": "Voltorb",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": "457 CP"
+            },
+            {
+                "tinyimage": ["geodude.png"],
+                "pokémon": "Geodude",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["poliwag.png"],
+                "pokémon": "Poliwag",
+                "how many?": "8",
+                "where?": "Pacifica Pier Region",
+                "infobox": "Big brother leads the gym"
+            },
+            {
+                "tinyimage": ["squirtle.png"],
+                "pokémon": "Squirtle",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": "407 CP!"
+            },
+            {
+                "tinyimage": ["horsea.png"],
+                "pokémon": "Horsea",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region",
+                "infobox": "also caught the evolution"
+            },
+            {
+                "tinyimage": ["psyduck.png"],
+                "pokémon": "Psyduck",
+                "how many?": "5",
+                "where?": "Pacifica Pier Region",
+                "infobox": "new to Pokédex!"
+            },
+            {
+                "tinyimage": ["oddish.png"],
+                "pokémon": "Oddish",
+                "how many?": "4",
+                "where?": "Pacifica Pier Region",
+                "infobox": "new to Pokédex!"
+            },
+            {
+                "tinyimage": ["eevee.png"],
+                "pokémon": "Evee",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region, Linda Mar",
+                "infobox": "533 CP"
+            },
+            {
+                "tinyimage": ["magikarp.png"],
+                "pokémon": "Magikarp",
+                "how many?": "5",
+                "where?": "Pacifica Pier Region, Linda Mar",
+                "infobox": "15.31kg, 1.11m, CP 11..."
+            },
+            {
+                "tinyimage": ["machop.png"],
+                "pokémon": "Machop",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": "576"
+            },
+            {
+                "tinyimage": ["gastly.png"],
+                "pokémon": "Gastly",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region, Linda Mar",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["seel.png"],
+                "pokémon": "Seel",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region",
+                "infobox": "but many more around..."
+            },
+            {
+                "tinyimage": ["exeggcute.png"],
+                "pokémon": "Exeggcute",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["staryu.png"],
+                "pokémon": "Staryu",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["goldeen.png"],
+                "pokémon": "Goldeen",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region",
+                "infobox": "new to Pokédex"
+            },
+            {
+                "tinyimage": ["charmander.png"],
+                "pokémon": "Charmander",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": "Yay! My starter x2"
+            },
+            {
+                "tinyimage": ["nidoran_f.png"],
+                "pokémon": "Nidoran female",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["nidoran_m.png"],
+                "pokémon": "Nidoran male",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["tangela.png"],
+                "pokémon": "Tangela",
+                "how many?": "1",
+                "where?": "Pacifica Pier",
+                "infobox": "Whoa! Caught it with my final Pokéball! CP 806!"
+            },
+            {
+                "tinyimage": ["sandshrew.png"],
+                "pokémon": "Sandshrew",
+                "how many?": "4",
+                "where?": "Pacifica Pier Region, Southern End",
+                "infobox": "Quite some around"
+            },
+            {
+                "tinyimage": ["drowzee.png"],
+                "pokémon": "Drowzee",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["seadra.png"],
+                "pokémon": "Seadra",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": "New to Pokédex!"
+            },
+            {
+                "tinyimage": ["magnemite.png"],
+                "pokémon": "Magnemite",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": "New to Pokédex!"
+            },
+            {
+                "tinyimage": ["shellder.png"],
+                "pokémon": "Shellder",
+                "how many?": "2",
+                "where?": "Pacifica Pier Region, next to Gorilla Guy",
+                "infobox": "New to Pokédex!"
+            },
+            {
+                "tinyimage": ["krabby.png"],
+                "pokémon": "Krabby",
+                "how many?": "3",
+                "where?": "Pacifica Pier Region, Linda Mar",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["weedle.png"],
+                "pokémon": "Weedle",
+                "how many?": "4",
+                "where?": "Pacifica Pier Region",
+                "infobox": "there are more around"
+            },
+            {
+                "tinyimage": ["electabuzz.png"],
+                "pokémon": "Electabuzz",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["graveler.png"],
+                "pokémon": "Graveler",
+                "how many?": "1",
+                "where?": "Pacifica, Linda Mar",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["charmeleon.png"],
+                "pokémon": "Charmeleon",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            },
+            {
+                "tinyimage": ["sandslash.png"],
+                "pokémon": "Sandslash",
+                "how many?": "1",
+                "where?": "Pacifica Pier Region",
+                "infobox": "903 CP!!"
+            },
+            {
+                "tinyimage": ["golduck.png"],
+                "pokémon": "Golduck",
+                "how many?": "1",
+                "where?": "Pacifica, Linda Mar",
+                "infobox": "1203 CP! wow."
+            },
+            {
+                "tinyimage": ["ponyta.png"],
+                "pokémon": "Ponyta",
+                "how many?": "4",
+                "where?": "Pacifica Pier Region",
+                "infobox": ""
+            }
+        ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 4 - Pacifica to San Fran",
+       "background": "frisko.jpg"
+     },
+      "notes": [
+        {
+          "text": "I woke up before 4am. Not a long night. I decided to start biking.",
+          "image": ""
+        },
+        {
+          "text": "It was extremely foggy all the way. Water hung in the air. Due to the darkness and the fog I must have been invisible except for my two tiny lights flashing on the bike. The streets were empty and I cycled along, sometimes walking through this small world that moved with me. I caught a few Pokémon, marked one Magnemite nest on PokéRadar, and had a very good time for thinking. The slow walk in the night through the invisible made some wheels turn in my head.",
+          "image": ""
+        },
+        {
+          "text": "I looooove this smell of eucalyptus in the air!!!",
+          "image": ""
+        },
+        {
+          "text": "Too much stuff.\nJust passed by a homeless person. He had way too much stuff.\nI thought\nIt's no good. Then you can't move. Then you can just as well take a job and work.",
+          "image": ""
+        },
+        {
+          "text": "wow.\nExcept for my computer, I feel like the most homeless person in the universe in this city. Seeing all these people in the streets makes me really sad. It’s pretty intense. I think my face dropped many centimeters from where I started this morning. It just all feels so messy and run down. Here are the two smells of San Francisco again: weed and homelessness. It really doesn’t make me happy to come here. There is this moment at the beginning when it does. It did again today, it did originally when I arrived the first time.\nBut the heavy of it all sinks in and weighs me down immensely. I'm not sure I would want to live here. Rather work from home on the countryside. Those hundreds of Pokéstops can’t make up for it, when I need to dive into my phone, autistically spinning them so that I don’t have to look around too much.",
+          "image": ""
+        },
+        {
+          "text": "I can only imagine that you move at a different stratum when you’re rich. That you’re somewhere higher up so you don’t need to see and smell all this. It makes sense that kings built their stairways above the streets, so that they could walk to church without needing to go out on the street. Or that science-fiction-futures often show the scum dropping to the bottom (or below) the streets.\nStrange strange strange.\nMaybe that event tonight is gonna be enough SF for me on this journey. I’d definitely prefer fewer Pokémon if it means more joy in life...",
+          "image": ""
+        },
+        {
+          "text": "Wow... I have a website online. My own self-made website, and it’s hosted somewhere that I paid for. It has the URL I gave it. It’s crazy! :D",
+          "image": ""
+        },
+        {
+          "text": "I came here for the Mystery Island Event - a Pokémon Go gathering in the Fort Mason area. Many many people are here from all around SF, and also some people from the WhatsApp group will come. That's gonna be interesting, I'm looking forward to it! There will be lots of lures. And also, but I haven't researched this yet, many people playing at one spot might cause more spawns somehow?",
+          "image": ""
+        },
+        {
+          "text": "A bit tired... I'll try to get a bed tonight.",
+          "image": ""
+        },
+        {
+          "text": "Found no bed, everything is booked. But i got myself a hot chocolate and will find a spot behind a bush when time comes around.",
+          "image": ""
+        },
+        {
+          "text": "Here's my character speaking:\nSo, I've really arrived at the city. The big city on my map. It's not exactly pleasant. I feel out of place. There's a large amount of trainers around, I can see everyone walking down the pathways catching and training. The city is messy. Big, too, and it feels as if it makes life hectic and difficult. This is not the way my adventure goes. However, it fits in here well. It's a step on the way. The big city! It is loud, people are training (but are they really?). A Pokémon trainer on a big adventure has to pass by these kinds of places. Because the city-fame and elusive pleasures is not what he set out for. There's something else that is calling, and that something is adventure. ;)",
+          "image": ""
+        },
+        {
+          "text": "I came to attend this event, the big trainer gathering. I've seen others walk around the hill, hundreds it feels, and it's only getting started. I needed a time-out but I will return soon, not sure how long I'll stay. The big events are not my scene, but I really wanted to see what is going on and how do people play here. It's impressive how massive the game is. At times it feels that everyone is playing. Families do, couples do, groups of friends do, and some even play alone. It seems to appeal to everyone, and cover many areas of society. I felt it was big back where I came from, but this is still surprising for me. Big cities, many people. I wonder how it looks like in other countries, how it looks like at home. Because today I realized that I am attributing this craze to here, as if it was a cultural phenomenon of the US - but it isn't at all. Globalization has swept across years ago, so a trend so big is never contained to one country. The changes I experience are changes worldwide, probably, and I just feel them so specific to this area, because this is where I was when the changes hit.",
           "image": ""
         }
       ],
       "tables": {
         "hatches": {
-          "title": "",
-          "header": [],
-          "content": [
+          "title": "Hatches",
+        "header": [
+            "Image",
+            "Pokémon"
+        ],
+        "content": [
             {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
+                "image": ["pidgey.png"],
+                "pokémon": "Pidgey"
+            },
+            {
+                "image": ["paras.png"],
+                "pokémon": "Paras"
+            },
+            {
+                "image": ["magnemite.png"],
+                "pokémon": "Magnemite"
             }
-          ]
+        ]
         },
         "catches": {
-          "title": "",
-          "header": [],
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?"
+          ],
           "content": [
-            {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
-            }
+              {
+                  "tinyimage": ["dodrio.png"],
+                  "pokémon": "Dodrio",
+                  "where?": "San Francisco Market Street"
+              }
           ]
         }
       }
     },
     {
      "hero": {
-       "title": "",
-       "background": ""
+       "title": "Day 4.5 - The Poké-Event gathering",
+       "background": "mystery_island_event.png"
      },
       "notes": [
         {
-          "text": "",
+          "text": "This was a fun night! I went to the Mystery Island 2 Event and met up with some folks of the whatsapp group! We had to arrange with visual cues in order to find each other, but managed to gather incrementally more people.",
           "image": ""
         },
         {
-          "text": "",
+          "text": "Fort Mason has a rather large area, some parts upstairs and some downstairs near a Marina. Initially the event was more spread out, but with time moving forward most people assembled down at the docks where lures where kept running and Psyducks kept popping up. They also tried to make a party and sales event out of it, but me and the small group I was with, we just found ourselves a triple-lure-spot and kept throwing balls and spinning stops.",
+          "image": ""
+        },
+        {
+          "text": "I don't think I had ever before been throwing balls so constantly, because mons just appeared all the time. Ha, another new way of playing the game for me.",
+          "image": ""
+        },
+        {
+          "text": "It was great fun to play with others together - this was also a first time for me. Being out there with friends makes it a fun activity in yet another way. It's an activity to do on the side, talk a bit, walk a bit, and informing each other when something interesting spawns. :)",
+          "image": ""
+        },
+        {
+          "text": "I stayed up until late and then simply dropped behind a bush in front of the youth hostel that didn't have space for me anymore, haha...",
           "image": ""
         }
       ],
       "tables": {
-        "hatches": {
-          "title": "",
-          "header": [],
-          "content": [
-            {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
-            }
-          ]
-        },
         "catches": {
-          "title": "",
-          "header": [],
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?"
+          ],
           "content": [
-            {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
-            }
+              {
+                  "tinyimage": ["magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png", "magikarp.png"],
+                  "pokémon": "Magikarps",
+                  "where?": "down the stairs"
+              },
+              {
+                  "tinyimage": ["squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png", "squirtle.png"],
+                  "pokémon": "Squirtles!",
+                  "where?": "up the stairs"
+              },
+              {
+                  "tinyimage": ["psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png", "psyduck.png"],
+                  "pokémon": "Psyducks",
+                  "where?": "down the stairs"
+              }
           ]
         }
       }
     },
     {
      "hero": {
-       "title": "",
-       "background": ""
+       "title": "Day 5 - From Fort Mason all along Embarcadero",
+       "background": "fort_mason_people.png"
      },
       "notes": [
         {
-          "text": "",
+          "text": "Yesterday I got introduced to the Silph Road and to IVs in Go. Now I've spent the morning checking up on the Pokémon I caught and still have - and realized it makes it much more difficult to give any away (before checking). I went through a few so far, my starter Charmander that I still have was deemed ungradeable, and I didn't have any really good ones yet. Enter: another layer to the game.",
+          "image": ""
+        },
+        {
+          "text": "One plan I came up with yesterday night, was that I would leave SF with enough Magikarp candy, so I'd be able to evolve a Gyarados. Therefore I'll now head off for a walk along Embarcadero towards the Caltrain station.",
+          "image": ""
+        },
+        {
+          "text": "I spend a lot of time at a Starbucks in Marina District, working on this blog and sorting through some mons. Charging for power and drinking for tea. All these things that need to be done once in a while. When I headed off, I took it slow.",
+          "image": ""
+        },
+        {
+          "text": "Slowly biking along the Embarcadero does indeed give the chance to catch a lot of Magikarps. Also Psyducks and Tentacools. Those three are everywhere. And then there are sometimes some other, more rare ones. I collected Magikarps en masse. Time was getting close for reaching the final train and I was wondering whether I'd get enough candy to evolve - without missing the train while trying to get it.\nI did. : )\nMission \"SF-Gyarados\" accomplished.",
+          "image": ""
+        },
+        {
+          "text": "Night fell while I was sitting on the Caltrain driving back home, and some melancholy overcame. My avatar kept running running running... And somehow this felt very fitting. I watched, and mingled with some life-metaphors in my head.\n\n",
           "image": ""
         },
         {
           "text": "",
+          "image": "running.gif"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "image": ["clefairy.png"],
+                  "pokémon": "Clefairy",
+                  "notes": ""
+              },
+              {
+                  "image": ["caterpie.png"],
+                  "pokémon": "Caterpie",
+                  "notes": ""
+              },
+              {
+                  "image": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "notes": ""
+              },
+              {
+                  "image": ["zubat.png"],
+                  "pokémon": "Zubat",
+                  "notes": ""
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["gloom.png"],
+                  "pokémon": "Gloom",
+                  "where?": "Starbucks Marina District",
+                  "notes": "maybe a bad choice, because I gave away my double points for a new evolution..."
+              },
+              {
+                  "tinyimage": ["koffing.png"],
+                  "pokémon": "Koffing",
+                  "where?": "Starbucks Marina District",
+                  "notes": ""
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "where?": "Along Embarcadero",
+                  "notes": "many"
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "where?": "Along Embarcadero",
+                  "notes": "of"
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "where?": "Along Embarcadero",
+                  "notes": "those"
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "where?": "Along Embarcadero",
+                  "notes": "and"
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "pokémon": "Dratini",
+                  "where?": "Along Embarcadero",
+                  "notes": "also this yay!"
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magikarp",
+                  "where?": "Along Embarcadero",
+                  "notes": "and many many more of these..."
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 6 - Palo Alto Business and a tour around San Jose airport",
+       "background": "fountain.jpg"
+     },
+      "notes": [
+        {
+          "text": "Waking up one more time at Stanford university's campus. A bit of nostalgia, some walks around, a bit of food picked up and more business done: sent my hair, changed my break pads, left for Palo Alto to get a new bank card.",
+          "image": ""
+        },
+        {
+          "text": "It was really time to do this!",
+          "image": "changing_breakpads.png"
+        },
+        {
+          "text": "The campus didn't provided a big diversity of Pokémon. I had forgotten about this after being in the city. All that's here are Rattatas, Pidgeys and Ekans'.",
+          "image": ""
+        },
+        {
+          "text": "I went up Hoover Tower. On my last day, last hour, last time around here. (Maybe)",
+          "image": ""
+        },
+        {
+          "text": "There's an extra tour I took. I organized to fly out of San Jose, so I realized my Bay circle might not end up closing itself. I didn't like that, so I decided to bike towards and around SJC airport today, so my path will connect well when I'll come down on the East Bay.",
+          "image": ""
+        },
+        {
+          "text": "Santa Clara university offered a break.\nBill Gates sponsored a plate.\nThe Spaniards named it after a girl.\n<em>Timewise reversed order.</em>",
           "image": ""
         }
       ],
       "tables": {
         "hatches": {
-          "title": "",
-          "header": [],
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
           "content": [
-            {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
-            }
+              {
+                  "image": ["horsea.png"],
+                  "pokémon": "Horsea",
+                  "notes": "21% above avg, XL"
+              },
+              {
+                  "image": ["sandshrew.png"],
+                  "pokémon": "Sandshrew",
+                  "notes": "got a good rating"
+              },
+              {
+                  "image": ["charmander.png"],
+                  "pokémon": "Charmander",
+                  "notes": "18% above avg"
+              }
           ]
         },
         "catches": {
-          "title": "",
-          "header": [],
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
           "content": [
-            {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
-            }
+              {
+                  "tinyimage": ["rattata.png", "pidgey.png", "ekans.png"],
+                  "pokémon": "Rattatapidgeyekans",
+                  "where?": "Stanford University Campus",
+                  "notes": "oh so many!"
+              },
+              {
+                  "tinyimage": ["dugtrio.png"],
+                  "pokémon": "Dugtrio",
+                  "where?": "Somewhere Santa Clara",
+                  "notes": "while biking along to the airport"
+              },
+              {
+                  "tinyimage": ["magmar.png"],
+                  "pokémon": "Magmar",
+                  "where?": "Fair Oaks Park, Sunnyvale",
+                  "notes": "Looking for a sleeping spot next to sports grounds suddenly this Magmar popped up"
+              }
           ]
         }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 7 - SF again: Cupid's Span and Treasure Island",
+       "background": "treasure_view.jpg"
+     },
+      "notes": [
+        {
+          "text": "This day was pretty amazing. A lot of fun and a lot of Pokémon!",
+          "image": ""
+        },
+        {
+          "text": "Cupid's Span is such a hotspot! ;)",
+          "image": "charmander.png"
+        },
+        {
+          "text": "And Treasure Island is <a href='https://en.wikipedia.org/wiki/Treasure_Island,_San_Francisco#Remediation_and_redevelopment' target='_blank'>weird and very interesting</a>.",
+          "image": ""
+        },
+        {
+          "text": "The radar showed many shadows of interesting mons: Cloyster, Dragonair, Magneton, Voltorb...",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "image": ["pidgey.png"],
+                  "pokémon": "Pidgey",
+                  "notes": ""
+              },
+              {
+                  "image": ["bellsprout.png"],
+                  "pokémon": "Bellsprout",
+                  "notes": "20% above avg!"
+              },
+              {
+                  "image": ["onix.png"],
+                  "pokémon": "Onix",
+                  "notes": "it hatched while I was biking.when looking at the phone,it was suddenly there!"
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["charmander.png"],
+                  "pokémon": "Charmander",
+                  "where?": "Embarcadero, Cupid's Span",
+                  "notes": "oh so many!"
+              },
+              {
+                  "tinyimage": ["bulbasaur.png"],
+                  "pokémon": "Bulbasaur",
+                  "where?": "Embarcadero, Cupid's Span",
+                  "notes": "just one"
+              },
+              {
+                  "tinyimage": ["squirtle.png"],
+                  "pokémon": "Squirtle",
+                  "where?": "Embarcadero, Cupid's Span",
+                  "notes": "also only one"
+              },
+              {
+                  "tinyimage": ["pinsir.png"],
+                  "pokémon": "Pinsir",
+                  "where?": "Embarcadero, Cupid's Span",
+                  "notes": "a lot of these"
+              },
+              {
+                  "tinyimage": ["tauros.png"],
+                  "pokémon": "Tauros",
+                  "where?": "Embarcadero, Cupid's Span",
+                  "notes": "some of these (US only!)"
+              },
+              {
+                  "tinyimage": ["aerodactyl.png"],
+                  "pokémon": "Aerodactyl",
+                  "where?": "Embarcadero, under Bay Bridge",
+                  "notes": ": o"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 8 - Sorting my Box, Some of the City's Parks",
+       "background": "balcony.jpg"
+     },
+      "notes": [
+        {
+          "text": "So I spent the whole morning, midday and early afternoon sorting through my Pokémon box. Finally I went to check all the IVs of all the ones that I kept, in order to determine which ones to keep and which ones to evolve further. It was a ride! I worked on my system of taking notes and how to adapt the SilphRoad IV tool to give me good results. Here's the essential takeaway:",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "sorting.jpg"
+        },
+        {
+          "text": "KEY:\n$ = Pokémon hatched from an egg\n* = <a href='https://thesilphroad.com/research' target='_blank'>IV Rater</a> returns \"solid mon\"\nnumber = the summed %s that the Pkmn is above average\nX = the Pkmn is XL",
+          "image": ""
+        },
+        {
+          "text": "EXAMPLE:\nCaterpie$*37X\n(and actually it has to be abbreviated to)\nCatpie$*37X\nyeah! that's a good one!",
+          "image": ""
+        },
+        {
+          "text": "Hatched Pokémon are usually in the second-to-best range of IVs. I've never seen one worse than that, and I've seen one that was further up in the best range.",
+          "image": ""
+        },
+        {
+          "text": "(personally, currently) CONFIRMED: CP does not really matter. If you're into long-term gains, then the IVs are important. You can always level up the CP of a Pokémon with Stardust and Candy (sure, some catching needs to be done for that). But you can't change the IVs. So once the Pokémon will max out, you will be left off with a better one if you chose one with great IVs.",
+          "image": ""
+        },
+        {
+          "text": "The best Magikarp of the lot I caught was at CP86 - It showed an overall <strong>minimun</strong> of 52% above average! The maximum betterness might go up to 62% above average.",
+          "image": ""
+        },
+        {
+          "text": "There's an imprecision factor in trying to determine the IVs. That factor is the level of the Pokémon, that needs to be set through adjusting a slider on an arc (just like in the game). However, it is difficult to get the exact right position for the slider, since the amount of Stardust, that can be used to double-check, is usually accurate for more than only one level. In some Pokémon and some level ranges, this potential span of differences can be very large, so that e.g. a Magikarp could be between 37% and 54% total above average. This makes a huge difference.",
+          "image": ""
+        },
+        {
+          "text": "Because I didn't want to get disappointed later on after having invested loads of candy and stardust, I started to set the slider on the highest possible stardust level, which produces the worst possible results for that mon. Just to be on the safe side. This didn't make me have many good ones, but at least I'd be on the safe side. : )",
+          "image": ""
+        },
+        {
+          "text": "Another way to approximate this better, is by switching on the Developer Tools in Chrome and selecting to display the page in mobile (my phone size), which brings the arc to an easier comparison to the one displayed on the phone.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "dev_tool_arc.png"
+        },
+        {
+          "text": "And then Chansey came along and confused my whole system with these results...",
+          "image": "chansey_the_destroyer.png"
+        },
+        {
+          "text": "However, for now I don't have a better system to check the IVs and stats, so I kept it running like I had before. But something is not working out completely well with simply adding up the percentages. Hm...",
+          "image": ""
+        },
+        {
+          "text": "Wrapping up the day, I managed to make space for ~100 new Pokémon, which I will have to fill up with Pidgeys and Caterpies in order to prepare for 30 minutes of Evolution.",
+          "image": ""
+        },
+        {
+          "text": "I also procured a list of needed catches that I'd try to get on our upcoming walk outisde, in order to be able to do a lucky egg evolution spree and gain some double XP.",
+          "image": ""
+        },
+        {
+          "text": "Here it is (spellings due to autocorrect) -->\n(the [x] mean that I actually accomplished that aim)<ul><li>[ ] 19 bulbasaurs - 2ev - 1mon</li><li>[ ] 6(5) charmanders - 2ev - 1mon</li><li>[x] 0 squirtles - 2ev - 1mon</li><li>[x] 2 caterpies - 2ev - 1mon</li><li>[x] 2 weedles - 5ev - 4mon</li><li>[ ] 30 pidgeys - 32ev - 32mon</li><li>[ ] 4 rattatas - 5ev - 5mon</li><li>[x] 1 sparrow - 1ev - 1mon</li><li>[ ] 3 sandshrews - 2ev - 2mon</li><li>[x] 1 clefairy - 1ev - 1mon</li><li>[x] 0 zubat - 2ev - 2mon</li><li>[ ] 1 paras - 2ev - 2mon</li><li>[x] 0 venonat - 1ev - 1mon</li><li>[ ] 1 psyduck - 3v - 3mon</li><li>[ ] 1 mankey - 1ev - 1mon</li><li>[x] 0 polliwog - 2ev - 1mon</li><li>[ ] 1 tentacool - 3ev - 3mon</li><li>[ ] 6 ponyta - 1ev - 1mon</li><li>[ ] 6 slowpoke - 1ev - 1mon</li><li>[ ] 6 magnetite - 1ev - 1mon</li><li>[ ] 4 doduo - 1ev - 1mon</li><li>[ ] 6 shielder - 1ev - 1mon</li><li>[x] 0 krabby - 1ev - 1mon</li><li>[ ] 6 volt orb - 1ev - 1mon</li><li>[x] 0 exeggcute - 1ev - 1mon</li><li>[ ] 7 cubone -1ev - 1mon</li><li>[ ] 6 rhyhorn - 1ev - 1mon</li><li>[ ] 4 horsea - 1ev - 1mon</li><li>[x] 0 golden - 1ev - 1mon</li><li>[x] 0 staryu - 1ev - 1mon</li><li>[x] 0 evee - 4ev - 4mon</li><li>[ ] 5 kabuto - 1ev - 1mon</li><li>[ ] 12 dratini - 2ev - 1mon</li></ul>",
+          "image": ""
+        },
+        {
+          "text": "Then I headed outside together with a friend. The day was drawing fog across the city. It was pleasant but chilly, sunny but not. We walked around the neighborhood, and later up Bernal Heights. Yesyes... up_^ Bernal heights. ; )",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "foggy_view.jpg"
+        },
+        {
+          "text": "I don't know what to do about this San Francisco.\nToday it was beautiful. These hills right in the middle of the city, and parks all over. Fog drawing across and beautiful sights here and there. At these times I really like the city, and then, on other days, it makes me feel very bad.\nAh...",
+          "image": ""
+        },
+        {
+          "text": "<strong>One big thought:</strong> I was thinking how beautiful it is that this game allows so many different aspects to explore. It makes me change game tactics, it makes me devise systems, test them, revise them. Improve my results and my experience through the systems I made up. And then... Then it also makes me go outside, walk around, test the hypotheses, discover new places and enjoy beautiful views. Get some excercise and have something to do, while standing in a beautiful spot.",
+          "image": ""
+        },
+        {
+          "text": "Today I was thinking that I want to find a job that is like this. And then I was thinking, that science is actually kind of like that! : )",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "foggy_panorama.jpg"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "image": ["caterpie.png"],
+                  "pokémon": "Caterpie",
+                  "notes": "37% better total, XL"
+              },
+              {
+                  "image": ["machop.png"],
+                  "pokémon": "Machop",
+                  "notes": "CP591, 9-15% above avg"
+              },
+              {
+                  "image": ["pidgey.png"],
+                  "pokémon": "Pidgey",
+                  "notes": ""
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["bulbasaur.png"],
+                  "pokémon": "Bulbasaur",
+                  "where?": "Bernal Heights",
+                  "notes": "chilly windy foggy sweet"
+              },
+              {
+                  "tinyimage": ["kingler.png"],
+                  "pokémon": "Kingler",
+                  "where?": "Dolores Park",
+                  "notes": "decided to catch it in the wildinstead of waiting for the evolution"
+              },
+              {
+                  "tinyimage": ["clefairy.png"],
+                  "pokémon": "Clefairy",
+                  "where?": "Noe Valley",
+                  "notes": "everywhere! many!"
+              },
+              {
+                  "tinyimage": ["zubat.png"],
+                  "pokémon": "Zubat",
+                  "where?": "Noe Valley",
+                  "notes": "allover SF..."
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #9 - Northwest of the City",
+       "background": "bridge.jpg"
+     },
+      "notes": [
+        {
+          "text": "One thing I worry about, is that our poor US American friends will get even more confused about kilometers. Because this what Go is displaying does not equal kilometers... So here's my breakdown of today, in order to give a comparison.",
+          "image": ""
+        },
+        {
+          "text": "And yes: I was biking very slowly!",
+          "image": ""
+        },
+        {
+          "text": "During today's ride I hatched the following eggs:<ul><li>5.0km (Slowpoke) +</li><li>2.0km (Caterpie) +</li><li>4.4km (?) =</li><li>16.4km</li></ul>",
+          "image": ""
+        },
+        {
+          "text": "However, the map says it was ~30km (see below).\nThis would mean that the game maps only slightly more than half of the distance!",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "NW_circle.png"
+        },
+        {
+          "text": "So I climbed two hilly parks today. Twin Peaks and Grand View. The first path was small, red, cut into the side of the hill, calm, still. It smelled peculiar and good. The game does give just that tiny push needed to get me to explore. : )",
+          "image": ""
+        },
+        {
+          "text": "Today I caught certainly more than 120 Pokémon... Fodder for an evolution spree.",
+          "image": ""
+        },
+        {
+          "text": "I also stumbled across the geographical center of the city. Completely unsuspecting. While I took this picture, a man passing by said \"ah you found it\", and then went on to explain that the city had put a beautiful plaque in the ground last week, and that it got stolen over the weekend... I said \"how?!\" And he \"San Francisco...\"\nThey'll be putting it back, but first they need to find away to secure it better in the ground.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "center_of_the_city.png"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "image": ["poliwag.png"],
+                  "pokémon": "Poliwag",
+                  "notes": "tiny tadpole"
+              },
+              {
+                  "image": ["slowpoke.png"],
+                  "pokémon": "Slowpoke",
+                  "notes": "lazy lazybones"
+              },
+              {
+                  "image": ["caterpie.png"],
+                  "pokémon": "Caterpie",
+                  "notes": "cute caterpillar"
+              },
+              {
+                  "image": ["???.png"],
+                  "pokémon": "missingno.png",
+                  "notes": "that's the 4.4k-mon that didn't hatch yet"
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["bulbasaur.png", "tauros.png", "geodude.png", "machop.png", "eevee.png"],
+                  "pokémon": "some of the (slightly) rarer ones",
+                  "where?": "Along the way",
+                  "notes": "the residential areas are very, very empty!"
+              },
+              {
+                  "tinyimage": ["pidgey.png", "pidgey.png", "pidgey.png", "pidgey.png", "pidgey.png", "pidgey.png"],
+                  "pokémon": "Pidgey Swarm",
+                  "where?": "Around Golden Gate Bridge",
+                  "notes": "just what I needed :)"
+              },
+              {
+                  "tinyimage": ["alakazam.png"],
+                  "pokémon": "Alakazam",
+                  "where?": "Golden Gate Bridge Visitor Center",
+                  "notes": "first a shadow, then the real thing. wow!and it's actually a good one! +14% above avg."
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #10 - Embarcadero again, and tireing",
+       "background": "embarcadero.jpg"
+     },
+      "notes": [
+        {
+          "text": "Somehow it wasn't very fun today to catch. Initially yes, but I got tired pretty soon... Seems I need a change of tactic or something such.",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": [
+              "Image",
+              "Pokémon",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "image": ["missingno.png"],
+                  "pokémon": "",
+                  "notes": ""
+              }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["missingno.png"],
+                  "pokémon": "",
+                  "where?": "",
+                  "notes": ""
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #11 - Across the Bridge",
+       "background": "golden_bridge.jpg"
+     },
+      "notes": [
+        {
+          "text": "Set off to leave the city and bike further North into the woods! So today I'm on the road to go from San Francisco to the Safari Zone. ;)",
+          "image": ""
+        },
+        {
+          "text": "Can't stick around in one city too long, for the adventure to remain a travel!",
+          "image": ""
+        },
+        {
+          "text": "I spun my 2000th Pokéstop at the middle of the Golden Gate Bridge! What a great coincidence! Got myself the 2000-medal, and it has this special <em>international</em> color for me now. ;)",
+          "image": "backpacker_2000_medal_orange2000.png"
+        },
+        {
+          "text": "I also got myself this \"GoldenKarp\". It sure isn't officially shiny, but hei! I caught it while biking across the Golden Gate Bridge! That should mean something ; ) I hope it's a good one so that there's also another reason to keep it around...",
+          "image": "magikarp.png"
+        },
+        {
+          "text": "<strong>Later that day:</strong>\nOh dear! I popped a lucky egg in my pocket. Accidentally.\nIn Sausalito.",
+          "image": "accident_luck.png"
+        },
+        {
+          "text": "That meant a lot of evolving, some trying to get back into cellphone reception, some restarting the app...\nI managed to get around 30000XP from it still. Haha, what a ride!",
+          "image": ""
+        },
+        {
+          "text": "After the dust had settled, I went for a break down there at this nice bench. Guess what surprise was waiting for me...",
+          "image": ""
+        },
+        {
+          "text": "still a bit closer...",
+          "image": "sausalito_sun.jpg"
+        },
+        {
+          "text": "... aaaand there you go! yay! ;)",
+          "image": "surprise.jpg"
+        },
+        {
+          "text": "The shore is splashing with these guys!",
+          "image": ""
+        },
+        {
+          "text": "Towards sunset I was climbing up some hills into the direction of Muir Woods. Arriving at the Panoramic Highway and being captivated by the (guessed it?) panorama, and the gold-red of light waning, I scurried off into the Californian bush.",
+          "image": ""
+        },
+        {
+          "text": "Enjoying the grand view, I settled for my nighttime, already eager for the sunrise...",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "evening_view_panorama.png"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["egg.png", "zubat.png"],
+                  "pokémon": "Zubat hatchling",
+                  "where?": "Cruising towards GGB",
+                  "notes": "What a grand surprise..."
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "GoldenKarp",
+                  "where?": "Golden Gate Bridge",
+                  "notes": "That one is gonna kick ass!"
+              },
+              {
+                  "tinyimage": ["rhydon.png"],
+                  "pokémon": "Rhydon",
+                  "where?": "Vista Point near GGB",
+                  "notes": ""
+              },
+              {
+                  "tinyimage": ["marowak.png"],
+                  "pokémon": "Marowak",
+                  "where?": "Vista Point near GGB",
+                  "notes": ""
+              },
+              {
+                  "tinyimage": ["koffing.png"],
+                  "pokémon": "Koffing",
+                  "where?": "Sausalito",
+                  "notes": "Where there is sunshine again"
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "pokémon": "Dratini",
+                  "where?": "Sausalito",
+                  "notes": "Where there is sunshine again, and sea"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #12 - Safari Zone",
+       "background": "coastal_view.jpg"
+     },
+      "notes": [
+        {
+          "text": "o_O ... I rose today having slept too little. Thoughts of encountering a mountain lion kept my sleep light and disrupted.\nAt least there was the morning view, no...? Aehm... No. Haha.\nFog.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "fog_view_sunny.png"
+        },
+        {
+          "text": "Making my way down the windy slopes to Muir Woods (my Safari Zone), I felt quite excited about hiking. There wouldn't be that many Pokémon to catch, though. My phone had 0 reception and the app didn't even want to start up. But hei!\n<strong>Bugs and troubles!</strong>\nThat does sound like Safari Zone!",
+          "image": ""
+        },
+        {
+          "text": "I went to visit the Coast Redwood Trees, the tallest of their kind. Trees so huge that you can easily raise your head to remove the other tourists from sight and still keep seeing only trees.\nIt's trees all the way up.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "muir_woods.png"
+        },
+        {
+          "text": "I like and respect this US American thing, that many people go outside into nature as their free time activity. Families do, friends go, it's really much more a thing than in other countries. Even if this also brings a weird bunch of people into the woods, and even if nature appreciation doesn't go much farther than walking the smallest loop. It's still more than other folks come up with! I wonder how one can become fat when movement is such a natural part of one's culture.",
+          "image": ""
+        },
+        {
+          "text": "So there are plenty of tourists here. But leaving the most basic loop makes me be pretty much alone. I've experienced this in other places as well. I do prefer the silence. Now I finally remove the earplugs and listen to the sounds of the woods instead of my pumping heartbeat. I climb up higher onto the nearby hills, dedicated to take a small hiking tour all around Muir Woods and also the coast. I can feel that I didn't sleep much the night before.",
+          "image": ""
+        },
+        {
+          "text": "After arriving up on the top, there's a surprise in store for me: My cell reception is back, and with it also Pokémon Go. - and, as it turns out, another new way of playing the game. Here it comes:",
+          "image": ""
+        },
+        {
+          "text": "Because there is more or less only a single path that is possible to walk, the \"Nearby\" feature actually makes sense and is very accurate. Checking the grid I can see which mons I'll be encountering on the way. I walk forward. At some point my phone buzzes and I know who'll be there - and indeed! It's that Pidgey I saw on the radar before. It's fun - and again very different than before. There's no searching, it's simply an early warning system, and you walk on confident that it'll buzz up sooner or later.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "muir_pidgey_nearby.png"
+        },
+        {
+          "text": "",
+          "image": "muir_meeting_pidgey.png"
+        },
+        {
+          "text": "There was a surprising number and diversity that I found up there on the ridge of the Coastal View Trail: MuirPidgey, MuirBell, MuirFairy, Krabby, Poliwag, Nidoran male, Zubat, Weedle, Evee, and even a Butterfree and a Pinsir! So if anyone wonders what a hike in nature can yield in catches, here's a screenshot-list:",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "muir_catches1.png"
+        },
+        {
+          "text": "",
+          "image": "muir_catches2.png"
+        },
+        {
+          "text": "Loosely quoting a local hero: When going into nature, one always receives more than one was looking for.",
+          "image": ""
+        },
+        {
+          "text": "Yay! That guy makes real Safari Zone memories surface!",
+          "image": "pinsir.png"
+        },
+        {
+          "text": "Later at the Muir Beach lookout I even found a Squirtle and a Geodude alongside some more of those I already mentioned. Logged them duly and was happy about my surprising wealth of catches for this remote area.",
+          "image": ""
+        },
+        {
+          "text": "Being in this new area also made me play more with the AR option. Somehow it just felt fitting to take pictures of the beautiful scenery together with the Pokémon in them. Here's a little selection of my Coastal Trail / Muir Woods / Real-life Safari Zone encounters:",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "safari_screens.jpg"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["egg.png", "tentacool.png"],
+                  "pokémon": "Tentacool",
+                  "where?": "On the serpentines down to Muir Woods",
+                  "notes": ""
+              },
+              {
+                  "tinyimage": ["pidgey.png"],
+                  "pokémon": "MuirPidgey",
+                  "where?": "Coastal View Trail",
+                  "notes": "My first catch in the Safari Zone"
+              },
+              {
+                  "tinyimage": ["egg.png", "eevee.png"],
+                  "pokémon": "Evee",
+                  "where?": "Hm... Maybe up on the ridge!",
+                  "notes": "hope she'll be good!"
+              },
+              {
+                  "tinyimage": ["butterfree.png"],
+                  "pokémon": "Butterfree",
+                  "where?": "Coastal View Trail",
+                  "notes": "It fitted very beautifully out there in nature"
+              },
+              {
+                  "tinyimage": ["pinsir.png"],
+                  "pokémon": "Pinsir",
+                  "where?": "Coastal View Trail",
+                  "notes": "Yay! Makes me remember the good old games..."
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #13 - Marin County Hangout",
+       "background": "muir_beach.jpg"
+     },
+      "notes": [
+        {
+          "text": "I crossed the hills on Hwy 1, then spent most of the day in a Starbucks earning a bit of money. I had been exhausted and was considering a day at the beach, but the lack of electricity (and sunlight) led me to move on.",
+          "image": ""
+        },
+        {
+          "text": "New tactic:\nChecking stats more thoroughly, by powering up to levels where I can determine the level precisely due to a leap in Stardust expenses :)",
+          "image": "power_up.png"
+        },
+        {
+          "text": "So then when I biked a bit more in the evening I felt exhausted still and decided to call it a day at the edges of the Horse Hill Open Space Preserve. Looked for a spot, following the tracks of deer with proud antlers. At first they were looking at me in disbelief, then making way for me. This area must be quite a hangout spot for them, because large areas of the high grass are squished down to comfortable sleeping spots.",
+          "image": ""
+        },
+        {
+          "text": "Where's a good spot? One thing I kept remembering from a story that a person told me about their encounter with a mountain lion, was to better not rest on the path of an animal... So I looked around, here, and there a bit deeper... until I figured in cold sweat that the bush I'd been considering to dive into was my old nemesis Poison Oak! A HUGE poison oak! I had gotten used to spotting them on the ground and as small shrubs, but this one was so big that I hadn't even considered to consider.",
+          "image": ""
+        },
+        {
+          "text": "Because my previous initiation experience with poison oak lasted for more than a month and was rather unpleasant, I've developed a flight reaction to this plant. However, when living outside it is difficult to flee (even if it's a plant, haha, well... It's difficult to flee its oils that I have probably spread allover already...). So I sat down for a tiny break and then started to dig out some old shirt and my last bits of water, splashed the fabric, and tried to rub the invisible oils off my skin on the legs and hands as thoroughly as possible. Which is not very thoroughly, in such a messy environment. But alas! Better try than not. I also changed clothes and dropped all the potentially infested stuff into a plastic bag. That's all I can do for now, we'll see whether the itchy bumps will return...",
+          "image": ""
+        },
+        {
+          "text": "My resting place I chose where the deer rest, too. The smell of stable hangs in the air, but only very faintly and rather pleasant. I did, however, encounter two fleas, oh my! and hope they won't find too much excitement about that bald mammal that'll share their spot tonight. I considered moving and went ahead, but eh... The deer chose their spot well and it seems to be the only one without steep inclination or poison oak. So I'll take the flea spot and wash my stuff tomorrow.",
+          "image": ""
+        },
+        {
+          "text": "But now back to Pokémon: After climbing into my sleeping bag I went to read on reddit what has been going on - and that night a new update was released that people seemed to be actually pretty excited about! My internet is painstakingly slow for these kinds of things, but I launched the download anyways. Who knows, maybe I'll be among the lucky ones that get to try out the new tracker, yay!",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "reddit_new_tracker.png"
+        },
+        {
+          "text": "",
+          "image": "update_specs.png"
+        },
+        {
+          "text": "Waiting for all those MBs to find their way into my little phone, I was getting myself excited about another change in the game mechanics. This truly is what I enjoy the most - that there are so many different ways that I have already been playing this game and it seems to be offering more to come. It's very fluid at the moment and still changes, but also allows different approaches through the way it is set up. Looking forward to seeing what this new tracker might bring. : )",
+          "image": ""
+        },
+        {
+          "text": "Oh dear! After a loooong time of waiting, the update is actually finished... So let's see whether downloading it in Marin County at a deer layr in the middle of nowhere next to a highway will reward me with a tryout-tracker...",
+          "image": ""
+        },
+        {
+          "text": "<- Nope. : )",
+          "image": "no_new_tracker.png"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "pokémon": "Magibeach",
+                  "where?": "Muir Beach",
+                  "notes": "I had no Pokéballs left on that beach and\n\t\t\t\t\t\t\t\tthe battery was about to die... But I got that one\n\t\t\t\t\t\t\t\tas a memory ; )"
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "pokémon": "Dratini",
+                  "where?": "Muir Beach",
+                  "notes": "I didn't catch it! Got a pic on my VR screen\n\t\t\t\t\t\t\t\tbut it ran away... (only 2 more for a Dragonite!)"
+              },
+              {
+                  "tinyimage": ["egg.png", "magnemite.png"],
+                  "pokémon": "Magnemite",
+                  "where?": "Somewhere on the way across the hills",
+                  "notes": "Hatched with 490CP. Good for candy for sure!"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #14 - Across two Bridges",
+       "background": "baywater.jpg"
+     },
+      "notes": [
+        {
+          "text": "Holy cow I think I'm sick...",
+          "image": ""
+        },
+        {
+          "text": "Did some very slow biking through the sunshine and Richmond Marina. It felt pleasant, very unspectacular (except for the views!). Met an excited guy who talked Pokémon with me and caught one Dratini and one Bulbasaur. I also did some gym battling, but it all happened so slow and sunny, that I think I must have been passed multiple times by retired people taking their dogs on a walk along the shore.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "broken_bridge.jpg"
+        },
+        {
+          "text": "Currently I'm at UC Berkeley to take a little break before hoisting myself back across the Bay. I have an inside place waiting for me on the other side, and sleeping does sound very nice... :)",
+          "image": ""
+        },
+        {
+          "text": "An Onix like the Berkeley campus tower!",
+          "image": "onix_appears.png"
+        },
+        {
+          "text": "",
+          "image": "america.jpg"
+        },
+        {
+          "text": "",
+          "image": "city.jpg"
+        },
+        {
+          "text": "Oh dear. I'm back home at my friend's place. They are out shopping so I am currently alone. It's so quiet and beautiful. The view still amazing, while night fell. I showered and dropped my clothes into the washing machine.\nHomes. They are something very convenient and reassuring. I am a little sick, so the feeling comes probably even stronger. Sitting here on this couch, in silence (only some muffled noises from outside, and some humming of silent kitchen appliances), warm water to drink, and that view... Oh dear, that view... I'm really starting to get into this city. One of my problems is that I'm always exploring when I'm about to leave...",
+          "image": ""
+        },
+        {
+          "text": "Palm leaves sway in the Bay's evening wind. Tonight I am protected from all this by walls and a roof. This house sits on a hill, one of the many. And the blinking skyline of the city shines through the large balcony glass wall. Silence. It's beautiful. Probably the most silent and homey I will have had it in the past 6 months.",
+          "image": ""
+        },
+        {
+          "text": "I crossed two bridges today, both with public transportation. Initially I wanted to bike across them all, then gradually found out that they were unavailable for biking. The Bay Bridge has <a href='http://www.sfchronicle.com/bayarea/article/Chronicle-Watch-Bay-Bridge-bike-path-still-a-6603266.php?t=fcbbee067461145358&cmpid=twitter-premium' target='_blank'>the funniest story regarding this</a>. And yes, <a href='http://www.sfgate.com/bayarea/article/Bay-Bridge-bike-path-questions-could-bring-6748350.php' target='_blank'>it is still closed</a>.",
+          "image": ""
+        },
+        {
+          "text": "Passing over the Bay Bridge. My bike goes by bus too.",
+          "image": "bikebusbridge.jpg"
+        },
+        {
+          "text": "Happily I discovered that the new tracker update was dependent on current area instead of being randomly assigned to specific people. Which makes sense for the type of game this is. :) Yay! Gonna be able to try the new feature too.",
+          "image": "new_tracker.jpg"
+        },
+        {
+          "text": "So now in the night I wrote a tiny program for easier stats calculation. Lets see whether I can bring this somewhere and pull the values from the page directly without needing manual input.\nNext step: an app ; )",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["egg.png", "sandshrew.png"],
+                  "pokémon": "Sandshrew",
+                  "where?": "Richmond Marina",
+                  "notes": "Oh! Sandshrew and Pidgey look so similar!"
+              },
+              {
+                  "tinyimage": ["egg.png", "pidgey.png"],
+                  "pokémon": "Pidgey",
+                  "where?": "Richmond Marina",
+                  "notes": "Ah..."
+              },
+              {
+                  "tinyimage": ["electrode.png"],
+                  "pokémon": "Electrode",
+                  "where?": "Richmond Marina",
+                  "notes": "the ball shilouette was there but I couldn't find it..."
+              },
+              {
+                  "tinyimage": ["egg.png", "caterpie.png"],
+                  "pokémon": "Caterpie",
+                  "where?": "Maybe UC Berkeley",
+                  "notes": "Well, it was 2ks"
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "pokémon": "Dratini",
+                  "where?": "Berkeley Marina",
+                  "notes": "I got 2, which makes me have enough for a Dragonite!"
+              },
+              {
+                  "tinyimage": ["magnemite.png"],
+                  "pokémon": "Magnemite",
+                  "where?": "Berkeley Marina",
+                  "notes": "2, plus one that ran. Only one more for Magneton"
+              },
+              {
+                  "tinyimage": ["egg.png", "machop.png"],
+                  "pokémon": "Machop",
+                  "where?": "Noe Valley",
+                  "notes": "Still missing quite some, but this is great!"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #15 - I hope I'll sleep",
+       "background": "snorlax_sleeping.png"
+     },
+      "notes": [
+        {
+          "text": "because I need some rest!",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "No Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": "missingno.png",
+                  "pokémon": "",
+                  "where?": "",
+                  "notes": ""
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #16 - Days in the Pokémon Center",
+       "background": "Pokémon_Center_inside_RBY.png"
+     },
+      "notes": [
+        {
+          "text": "I was very exhausted and needed to take a break. Today I wanted to go to Beach Chalet and catch some rare ones, but only walking for two blocks made me feel rather done with it all. So I ended up turning around and going back to relax some more. Loading myself into the Pokémon Center. :)",
+          "image": ""
+        },
+        {
+          "text": "Ping-Ping-Piwu-Ping!",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "No Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": "missingno.png",
+                  "pokémon": "Missingno.",
+                  "where?": "",
+                  "notes": ""
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #17 - Final Days",
+       "background": "banner.png"
+     },
+      "notes": [
+        {
+          "text": "I've stayed inside also most of today. Read loads online about AI and the Fermi paradox. Had a good day and managed to relax a bit. Feels good and healthy, and maybe it'll keep me from getting really sick. Taking care a bit. :)",
+          "image": ""
+        },
+        {
+          "text": "The one interesting Pokémon Go related thing that happened today, was that I had a meeting arranged with a person to check out my bike that I'll be selling before flying home. While he was biking around the park to try it out, a Gastly appeared kind of close by. So I was wondering whether to go and get it... but felt bad for if he came back and I wasn't there. After a while I crossed the street, but turned around right away. The pull... but then still the decency to hold the spot. Of course Gastly was gone after the meeting was over!",
+          "image": ""
+        },
+        {
+          "text": "Finally enough earnings for more storage space. I decided for the bag upgrade, because since I've found a way to order the mons, they have never been filling up my box too much.",
+          "image": "bag_upgrade.png"
+        },
+        {
+          "text": "I also had a great time with my hosts over self-made Sushi and me-made Kaiserschmarrn. Food was great and we had a ton of interesting conversation. Happy me. : D",
+          "image": ""
+        },
+        {
+          "text": "Now it is night, and I'm about to go sleeping and spend my last night here in SF. The citylights dance beautifully across the distance up to here. I smile a little. The fog crawls up covering half of the city, however, the larger part from there to here is clear.\nI wonder whether I'll ever come back and for what reason would I do so. I learned to like the city a bit. Surprised, I have to admit that I learned to like it quite some.\nWell... good night San Francisco. Sleep well crazy stressed stupid smart innovative driven city.",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "One Eevolution",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": "jolteon.png",
+                  "pokémon": "Jolteon",
+                  "where?": "just here, inside the Pkmn Center",
+                  "notes": "I wanted another strong(ish) ElektromonI've got a 91% Raichu. Good but not strong enoughSparkz has 89% but a bit more CP (currently 1440)"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #18 - Closing the Circle",
+       "background": "ferryride.jpg"
+     },
+      "notes": [
+        {
+          "text": "I really wanted to go on this ferry ride... It just feels such a classic Pokémon thing to do!\nSo I did.\nMS Anne to Vallejo!",
+          "image": ""
+        },
+        {
+          "text": "Haha maybe Mew pops up from behind a truck ; ) ... Not.",
+          "image": "walk_to_ferry_with_ferry.png"
+        },
+        {
+          "text": "",
+          "image": "ferry.png"
+        },
+        {
+          "text": "There is one tip for Pokémon trainers going to the ferry building in SF to catch: While the lower floor demands navigating through hordes of people...",
+          "image": "ferry_bldg_down.png"
+        },
+        {
+          "text": "...the upper floor accesses everything in calming solitude!",
+          "image": "ferry_bldg_up.png"
+        },
+        {
+          "text": "The views across the Bay were breathtaking. It was great to look here and there and know that I've been passing that bridge some days earlier, and been biking those hills just before. It feels that I got to know the Bay somewhat, and Pokémon Go was with me all the time and made me move from here to there.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "ferry_view1.png"
+        },
+        {
+          "text": "I didn't have any trainer battles on the ship (also because this is not yet possible), but there was a young girl whose character I saw running across the water during the ferry ride.",
+          "image": ""
+        },
+        {
+          "text": "I also didn't help the Captain puke...\nSo no VM for me ;)",
+          "image": ""
+        },
+        {
+          "text": "I wonder about how it would change the possibilities to experience this game, if trainer battles were enabled. If one could meet others on their own Pokémon adventure, and train together.",
+          "image": ""
+        },
+        {
+          "text": "Here's a waving Staryu welcoming me at Vallejo's shore",
+          "image": "welcome_to_vallejo.png"
+        },
+        {
+          "text": "I think my Pokétour is over.Has been for a few days. Other things were and are more present. It was fun! How long did it last exactly, how many days? Not sure... : ) But i had a good time and it gave me a reason and a way to travel. Later on it changed and the original intent dissolved, but that's okay. Things change during a travel, it's good to be open for this.",
+          "image": ""
+        },
+        {
+          "text": "I do feel like wrapping it up properly, though. Maybe do some sweet evolutions, and especially write about the different gameplays that I went through. That is one of the central points for me about this game.\nI wonder whether I'll play at home. Probably not, because, oh dear, I will be dropped into the most rural setting and join the ranks of those seeing Pidgeys only ever. Maybe I can rule the one gym in my little home town (if there even is one...)\nHaha. The guy who came back from the US... ; )",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches and Catches",
+          "header": [
+              "Tinyimage",
+              "Pokémon",
+              "Where?",
+              "Notes"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["egg.png", "vulpix.png"],
+                  "pokémon": "Vulpix",
+                  "where?": "Leaving the city",
+                  "notes": "83% and plenty candy"
+              },
+              {
+                  "tinyimage": ["staryu.png"],
+                  "pokémon": "Staryu",
+                  "where?": "Vallejo ferry building",
+                  "notes": "it sat there to welcome me on the farthest North spotof my travels!"
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "pokémon": "Dratini",
+                  "where?": "Vallejo ferry building",
+                  "notes": "this one saves 3 from being traded for candy!"
+              },
+              {
+                  "tinyimage": ["egg.png", "weedle.png"],
+                  "pokémon": "Weedle",
+                  "where?": "Stanford Palm Drive",
+                  "notes": "and me, I hope for good IV!"
+              },
+              {
+                  "tinyimage": ["egg.png", "squirtle.png"],
+                  "pokémon": "Squirtle",
+                  "where?": "Hoover Tower",
+                  "notes": "Oh so sweet! 84%"
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day #19 - Evolutions and Battles",
+       "background": "evolutions.png"
+     },
+      "notes": [
+        {
+          "text": "So for today I was planning to do a Gym round at Stanford and go grab all the gyms I can, while spinning stops on the way and evolving the starters and my Dratini.",
+          "image": ""
+        },
+        {
+          "text": "However, the first gym I checked was populated with 2000+ Snorlax, Gyarados and Dragonite, so I figured I should probably evolve before.",
+          "image": ""
+        },
+        {
+          "text": "Now what to evolve? I have a few decisions to take between evolving higher CP but lower IV, and vice versa. I used to go for high IVs only, once I got to know about this whole IV story. However, since I am leaving the areas with abundant spawns, I might have to change my tactic on this.",
+          "image": ""
+        },
+        {
+          "text": "... and now choose one!",
+          "image": "pre_evo_dratinis.png"
+        },
+        {
+          "text": "Here's my reasoning: In the close selection I have a Dratini with CP 595 and 82% IV, and another one with CP 417 and 96% IV. While I am inclined to evolve the 96% one, Dratinis are very rare and will probably be even less common in the rural areas I am going to. So I <a href=\"http://pogotoolkit.com/\" target==\"_blank\">checked what CP to expect</a> and I <a href=\"https://buimichael.github.io/pokemongo-Stardust-Calculator/\" target==\"_blank\">checked how much Candy (and Stardust) I'll need</a>. And I also <a href=\"https://www.pgnexus.gg/\" target==\"_blank\">considered the Stats</a>.\nI'll pop these values into a table and then take my decisions.",
+          "image": ""
+        },
+        {
+          "text": "If you like the tension, then don't read the Result section quit yet...",
+          "image": ""
+        },
+        {
+          "text": "So I've been working on all this now for the whole morning. Finally some choices taken. I'll evolve the currently highest CP Dratini, because I will likely not be collecting many more Dratini candies (and would need quite some amounts to power-up the better-IV-ed ones to a similar level). And I'd want some strong Pokémon for my final gym battles today.",
+          "image": ""
+        },
+        {
+          "text": "Similar reasons made me decide to evolve my Charmander and Squirtle, even though they do not have the best IVs. They are pretty decent, though, and it feels good enough for the excitment I'll have from seeing them evolve and then be battling with Charizard and Blastoise (in one team!).",
+          "image": ""
+        },
+        {
+          "text": "Sadly I did not manage to collect enough candy to evolve my 73% Bulbasaur into Venusaur, so I'll leave that one unevolved for now. Who knows, maybe the future will bring me close to a nest...",
+          "image": ""
+        },
+        {
+          "text": "And then there are some other exciting Evolutions that will yield firsts for me. I've collected enough candies to evolve them, and they have decent IVs. Also they will most probably not be the Pokémon I'll do gym battles with - so the evolutions make sense. I'm also on the task of gathering some more entries into my Pokédex!",
+          "image": ""
+        },
+        {
+          "text": "So here we go! ... Nothing left to do but hope for great move-sets!",
+          "image": ""
+        },
+        {
+          "text": "... (You can now go check the Results in the tables above)",
+          "image": ""
+        },
+        {
+          "text": "Ajajaj! This didn't go all that well... Haha... But at least it fills my Pokédex some more.",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "post_evolving1.png"
+        },
+        {
+          "text": "",
+          "image": "post_evolving2.png"
+        },
+        {
+          "text": "So let's get myself out there and walking, to test my mons in Stanford's gyms!",
+          "image": ""
+        },
+        {
+          "text": "... a few hours later...                              --->",
+          "image": ""
+        },
+        {
+          "text": "This was fun!!!\nI walked around all over campus and did gym battles. I actually placed one mon in each of the ~7 gyms that were in my general area of action at campus. Not all at the same time though, and I was soon lacking potions. I picked my rewards when I had 3 Pokémon assigned, but at one time later I managed to get up to having 5 assigned to gyms simulatneously! That was my record so far. And also picking 30 coins in one day is a record for me. So this went nicely!",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "30_pickup.png"
+        },
+        {
+          "text": "",
+          "image": "5_assigned.png"
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Evolutionary Choices",
+          "header": [
+              "sMon",
+              "CP",
+              "IV%",
+              "Lv.",
+              "ATK",
+              "DEF",
+              "STA",
+              "eMon",
+              "minCP",
+              "maxCP",
+              "Dust>L25",
+              "Sweets>L25",
+              "Evolve",
+              "Result"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["dratini.png"],
+                  "cp": "595",
+                  "iv%": "82",
+                  "lv.": "22",
+                  "atk": "15",
+                  "def": "11",
+                  "sta": "11",
+                  "image": ["dragonite.png"],
+                  "mincp": "2161",
+                  "maxcp": "2288",
+                  "dust>l25": "24,000",
+                  "sweets>l25": "21",
+                  "evolve": "X",
+                  "result": "2158Steel Wing (15)Dragon Pulse (65)Ah... Hm... Well..."
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "cp": "521",
+                  "iv%": "89",
+                  "lv.": "19",
+                  "atk": "15",
+                  "def": "12",
+                  "sta": "13",
+                  "image": ["dragonite.png"],
+                  "mincp": "1891",
+                  "maxcp": "2003",
+                  "dust>l25": "40,000",
+                  "sweets>l25": "35",
+                  "evolve": "",
+                  "result": ""
+              },
+              {
+                  "tinyimage": ["dratini.png"],
+                  "cp": "417",
+                  "iv%": "96",
+                  "lv.": "15",
+                  "atk": "15",
+                  "def": "15",
+                  "sta": "13",
+                  "image": ["dragonite.png"],
+                  "mincp": "1514",
+                  "maxcp": "1603",
+                  "dust>l25": "56,400",
+                  "sweets>l25": "51",
+                  "evolve": "",
+                  "result": ""
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "cp": "160",
+                  "iv%": "73",
+                  "lv.": "24",
+                  "atk": "11",
+                  "def": "7",
+                  "sta": "15",
+                  "image": ["gyarados.png"],
+                  "mincp": "1616",
+                  "maxcp": "1888",
+                  "dust>l25": "11,000",
+                  "sweets>l25": "9",
+                  "evolve": "",
+                  "result": ""
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "cp": "143",
+                  "iv%": "87",
+                  "lv.": "20",
+                  "atk": "15",
+                  "def": "13",
+                  "sta": "11",
+                  "image": ["gyarados.png"],
+                  "mincp": "1444",
+                  "maxcp": "1687",
+                  "dust>l25": "35,000",
+                  "sweets>l25": "31",
+                  "evolve": "X",
+                  "result": "1514Bite (6)Twister (25)Oh dear! Please no... Not again!"
+              },
+              {
+                  "tinyimage": ["magikarp.png"],
+                  "cp": "78",
+                  "iv%": "89",
+                  "lv.": "12",
+                  "atk": "13",
+                  "def": "13",
+                  "sta": "14",
+                  "image": ["gyarados.png"],
+                  "mincp": "787",
+                  "maxcp": "920",
+                  "dust>l25": "65,400",
+                  "sweets>l25": "63",
+                  "evolve": "",
+                  "result": ""
+              },
+              {
+                  "tinyimage": ["eevee.png"],
+                  "cp": "416",
+                  "iv%": "80",
+                  "lv.": "14",
+                  "atk": "15",
+                  "def": "8",
+                  "sta": "13",
+                  "image": ["vaporeon.png", "flareon.png", "jolteon.png"],
+                  "mincp": "V-1094F-1023J-832",
+                  "maxcp": "V-1135F-1057J-873",
+                  "dust>l25": "59,600",
+                  "sweets>l25": "55",
+                  "evolve": "F",
+                  "result": "Flareon - 1030Ember (10)Fire Blast (100)Not bad, but I just did it to reset the game."
+              },
+              {
+                  "tinyimage": ["eevee.png"],
+                  "cp": "686",
+                  "iv%": "82",
+                  "lv.": "23",
+                  "atk": "15",
+                  "def": "12",
+                  "sta": "10",
+                  "image": ["vaporeon.png", "flareon.png", "jolteon.png"],
+                  "mincp": "V-1804F-1687J-1372",
+                  "maxcp": "V-1872F-1744J-1440",
+                  "dust>l25": "18,000",
+                  "sweets>l25": "15",
+                  "evolve": "V",
+                  "result": "Flareon - 1693Ember (10)Flamethrower (55)Wait... What?! But I thought I had reset by doing all name eevolutions! So my best one turned into a Flareon instead of Vaporeon and even with some medium moves! ajajaj..."
+              },
+              {
+                  "tinyimage": ["eevee.png"],
+                  "cp": "678",
+                  "iv%": "76",
+                  "lv.": "23",
+                  "atk": "15",
+                  "def": "10",
+                  "sta": "9",
+                  "image": ["vaporeon.png", "flareon.png", "jolteon.png"],
+                  "mincp": "V-1783F-1667J-1356",
+                  "maxcp": "V-1850F-1724J-1423",
+                  "dust>l25": "18,000",
+                  "sweets>l25": "15",
+                  "evolve": "J",
+                  "result": "Jolteon - 1358Thunder Shock (5)Thunder (100)I did this one anyways 3/3 and Yay!here I got lucky - even got Thunder!"
+              },
+              {
+                  "tinyimage": ["eevee.png"],
+                  "cp": "506",
+                  "iv%": "82",
+                  "lv.": "17",
+                  "atk": "14",
+                  "def": "9",
+                  "sta": "14",
+                  "image": ["vaporeon.png", "flareon.png", "jolteon.png"],
+                  "mincp": "V-1330F-1244J-1012",
+                  "maxcp": "V-1381F-1286J-1062",
+                  "dust>l25": "48,800",
+                  "sweets>l25": "43",
+                  "evolve": "",
+                  "result": ""
+              }
+          ]
+        },
+        "catches": {
+          "title": "Evolutions in any case",
+          "header": [
+              "sMon",
+              "CP",
+              "IV%",
+              "Lv.",
+              "ATK",
+              "DEF",
+              "STA",
+              "eMon",
+              "minCP",
+              "maxCP",
+              "Dust>L25",
+              "Sweets>L25",
+              "Result"
+          ],
+          "content": [
+              {
+                  "tinyimage": ["squirtle.png"],
+                  "cp": "551",
+                  "iv%": "84",
+                  "lv.": "20",
+                  "atk": "11",
+                  "def": "14",
+                  "sta": "13",
+                  "image": ["blastoise.png"],
+                  "mincp": "1045",
+                  "maxcp": "1943",
+                  "dust>l25": "35,000",
+                  "sweets>l25": "31",
+                  "result": "1412Water Gun (6)Ice Beam (65)No Hydro Pump..."
+              },
+              {
+                  "tinyimage": ["charmander.png"],
+                  "cp": "507",
+                  "iv%": "72",
+                  "lv.": "20",
+                  "atk": "11",
+                  "def": "11",
+                  "sta": "10",
+                  "image": ["charizard.png"],
+                  "mincp": "1421",
+                  "maxcp": "1541",
+                  "dust>l25": "35,000",
+                  "sweets>l25": "31",
+                  "result": "1424Wing Attack (9)Dragon Claw (35)Oh my... That, that... oh..."
+              },
+              {
+                  "tinyimage": ["bellsprout.png"],
+                  "cp": "620",
+                  "iv%": "87",
+                  "lv.": "20",
+                  "atk": "11",
+                  "def": "11",
+                  "sta": "10",
+                  "image": ["victreebell.png"],
+                  "mincp": "1402",
+                  "maxcp": "1577",
+                  "dust>l25": "35,000",
+                  "sweets>l25": "31",
+                  "result": "1417Razor Leaf (15)Solar Beam (120)Wow, seems here I got lucky!"
+              },
+              {
+                  "tinyimage": ["oddish.png"],
+                  "cp": "704",
+                  "iv%": "69",
+                  "lv.": "23",
+                  "atk": "11",
+                  "def": "10",
+                  "sta": "10",
+                  "image": ["vileplume.png"],
+                  "mincp": "1540",
+                  "maxcp": "1626",
+                  "dust>l25": "18,000",
+                  "sweets>l25": "15",
+                  "result": "Oh dear! Not enough Candy!Result: literally <img src=\"img/pkm_sprites/gloom.png\">..."
+              },
+              {
+                  "tinyimage": ["shellder.png"],
+                  "cp": "443",
+                  "iv%": "80",
+                  "lv.": "20",
+                  "atk": "11",
+                  "def": "13",
+                  "sta": "12",
+                  "image": ["cloyster.png"],
+                  "mincp": "1160",
+                  "maxcp": "1173",
+                  "dust>l25": "35,000",
+                  "sweets>l25": "31",
+                  "result": "1130Frost Breath (9)Hydro Pump (90)Yay! These moves look nice!"
+              },
+              {
+                  "tinyimage": ["exeggcute.png"],
+                  "cp": "550",
+                  "iv%": "87",
+                  "lv.": "18",
+                  "atk": "14",
+                  "def": "15",
+                  "sta": "10",
+                  "image": ["exeggcutor.png"],
+                  "mincp": "1485",
+                  "maxcp": "1749",
+                  "dust>l25": "44,400",
+                  "sweets>l25": "39",
+                  "result": "1495Zen Headbutt (12)Seed Bomb (40)Oh dear... What moves..."
+              }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Reflections (tl;dr)",
+       "background": "banner.png"
+     },
+      "notes": [
+        {
+          "text": "<div class=\"display-4\">Ways I've played (with) Go.</div>",
+          "image": ""
+        },
+        {
+          "text": "<em>               game released</em>\n1. Looking at others walking in groups\n<em>               understood what this is about</em>\n               <em>downloaded the game</em>",
+          "image": ""
+        },
+        {
+          "text": "2. Figuring out triangulation",
+          "image": ""
+        },
+        {
+          "text": "3. Walking and wondering how to film all this action going on\n               <em>three-step-glitch introduced</em>",
+          "image": ""
+        },
+        {
+          "text": "4. Searching around aimlessly",
+          "image": ""
+        },
+        {
+          "text": "5. Leeching on other’s lures",
+          "image": ""
+        },
+        {
+          "text": "6. Collecting Pidgeys for Evolution-sprees\n               <em>started the pokémon bike travel</em>",
+          "image": ""
+        },
+        {
+          "text": "7. Catching random mons that appear along my way\n               <em>got to know Pokéradar</em>",
+          "image": ""
+        },
+        {
+          "text": "8. Speeding from here to there to find specific special mons\n               <em>mystery island event</em>",
+          "image": ""
+        },
+        {
+          "text": "9. Standing at triple-lure spots constantly throwing balls",
+          "image": ""
+        },
+        {
+          "text": "10. Walking around with others, catching together\n               <em>got to know about IVs</em>",
+          "image": ""
+        },
+        {
+          "text": "11. In front of a computer figuring out IVs",
+          "image": ""
+        },
+        {
+          "text": "12. Sorting through boxes endlessly, with changing naming systems\n               <em>outside in the middle of nowhere</em>",
+          "image": ""
+        },
+        {
+          "text": "13. If there’s only one path, you know what will pop up next\n               <em>new tracker introduced</em>",
+          "image": ""
+        },
+        {
+          "text": "14. Getting confused by the grass in the sprites\n               <em>new tracker works in the city!</em>",
+          "image": ""
+        },
+        {
+          "text": "15. Running to the indicated Pokéstops to actual find the indicated Pokémon\n               <em>going by ferry</em>",
+          "image": ""
+        },
+        {
+          "text": "16. I just looked at the pretty view! : )\n               <em>going by bus</em>",
+          "image": ""
+        },
+        {
+          "text": "17. Can't really play while going by bus\n               <em>last days coming around</em>",
+          "image": ""
+        },
+        {
+          "text": "18. Using many tools and lists to figure out which individuals to evolve",
+          "image": ""
+        },
+        {
+          "text": "19. Filling up my Pokédex",
+          "image": ""
+        },
+        {
+          "text": "20. \nWalking around trying to put mons into many gyms\n               <em>flying on a plane</em>",
+          "image": ""
+        },
+        {
+          "text": "21. Can’t play at all while flying on a plane...\n               <em>no more data on my phone</em>",
+          "image": ""
+        },
+        {
+          "text": "22. Connecting repeatedly to the airport wifi to spin some potions",
+          "image": ""
+        },
+        {
+          "text": "23. Gym battling to have my near-0 mons defeated so I can revive them to half HP",
+          "image": ""
+        },
+        {
+          "text": "Here are some final stats:",
+          "image": ""
+        },
+        {
+          "text": "I began the travel at Lv. 21 with 14692 XP",
+          "image": "me_xp_init.png"
+        },
+        {
+          "text": "And ended when reaching Lv. 25",
+          "image": "level_25.png"
+        },
+        {
+          "text": "My Pokédex went from ~60 mons up to 118",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": "byebay_task.png"
+        },
+        {
+          "text": "",
+          "image": "byebay_check.png"
+        },
+        {
+          "text": "It got dark in Go.\nSo I finished my round around the Bay. The East Bay happened much faster than I thought, but I simply wasn't healthy enough to continue the travel like before.",
+          "image": ""
+        },
+        {
+          "text": "It was a good time! Very interesting! How I made the game take me places, meet people, take pictures, look at views, and even finally buy a domain and start this blog.\n: )",
+          "image": ""
+        },
+        {
+          "text": "I really like all those different phases I experienced with Go: city playing, rural playing, going outside, changing footsteps, always three footsteps, no more footsteps, suddenly grass, the new tracker... Learning some English Pokémon names. Reliving some of my childhood, and later times.",
+          "image": ""
+        },
+        {
+          "text": "Think and order and structure! Devise systems and revise them. And again: go outside and explore!!",
+          "image": ""
+        },
+        {
+          "text": "I could have gotten into programming something for it as well, maybe I might still : )\nBut even if not, this was certainly worth it, and certainly an adventure!",
+          "image": ""
+        },
+        {
+          "text": "Thanks Nintendo and Niantic.\nDespite all the troubles, I think you really created a new and interesting game. A great experience than spans many ages and classes, and this is such a feat to achieve!\n: )\nAnd you made people go out and discover! This is something really beautiful.",
+          "image": ""
+        },
+        {
+          "text": "Today I saw a family watching a (real) seal swim through the water. There's something in there that connects to this whole experience. Going out to live things together, and watching little animals. ;)",
+          "image": ""
+        },
+        {
+          "text": "So I say goodbye for now.\nTo this place and to this game.\nByeBay, So long and thanks for all the mons!",
+          "image": ""
+        }
+      ],
+      "tables": {
       }
     }
-  ]
+  ],
+  "footer": {
+    "image": "swimartin_avatar.png",
+    "resources": [
+      {"title": "The Silph Road", "url": "https://thesilphroad.com/authenticate"},
+      {"title": "Pokémon Font", "url": "http://www.fontspace.com/jackster-productions/pokemon-gb"},
+      {"title": "Sprites I", "url": "https://pbs.twimg.com/media/CeuULagW8AAhrnp.jpg:large"},
+      {"title": "Sprites II", "url": "http://i.imgur.com/i65tkMR.png"},
+      {"title": "GIS converter", "url": "https://gist.github.com/dergachev/4627207"}
+    ],
+    "me": ["martinmade 2016-08"]
+  }
 }

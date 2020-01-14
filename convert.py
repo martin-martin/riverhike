@@ -17,4 +17,7 @@ for table in data:
             temp['content'].append(r)
     adapdata.append(temp)
 
-pprint(adapdata)
+
+with open('tabledict.json', 'w', encoding='utf-8') as fout:
+    json.dump(adapdata, fout, ensure_ascii=False, indent=4)
+#pprint(adapdata)

@@ -70,7 +70,7 @@ raw = Template("""<!DOCTYPE html>
                 <div class="col mb-4">
                     <div class="card">
                         <h3 class="card-title mx-auto d-block m-4">{{ s['tables'][t]['title'] }}</h3>
-                        <div class="table-responsive-sm">
+                        <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
@@ -83,9 +83,9 @@ raw = Template("""<!DOCTYPE html>
                                     {% for row in s['tables'][t]['content'] %}
                                     <tr>
                                         {% for k in row.keys() %}
-                                            {% if k == 'image' %}
+                                            {% if k == 'image' or k == 'tinyimage' %}
                                                 <td>
-                                                    {% for img in row['image'] %}
+                                                    {% for img in row[k] %}
                                                         <img src="img/pkm_sprites/{{ img }}">
                                                     {% endfor %}
                                                 </td>
@@ -106,6 +106,24 @@ raw = Template("""<!DOCTYPE html>
         </section>
     </section>
     {% endfor %}
+    </div>
+    <div class="container-fluid">
+    <img src="img/{{ data['footer']['image'] }}" class="img-responsive mx-auto d-block pb-5" alt="the author's avatar with bike and pokeballs">
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-4">Some Resources</h1>
+        <ul>
+        {% for res in data['footer']['resources'] %}
+        <li>{{ res['title'] }}: <a href="{{ res['url'] }}" target="_blank">{{ res['url'] }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="text-muted small">
+    {% for entry in data['footer']['me'] %}
+    <p>{{ entry }}</p>
+    {% endfor %}
+    </div>
     </div>
 </body>
 </html>""")

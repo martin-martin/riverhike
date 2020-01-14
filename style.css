@@ -1,36 +1,28 @@
 @font-face {
-	font-family: "Pokemon";
-	src: url("font/pokemon_gb.ttf");
+    font-family: "Pokemon";
+    src: url("font/pokemon_gb.ttf");
 }
 
 body {
-	font-family: Pokemon, Verdana, Tahoma, monospace;
-}
-
-h1,
-h2,
-.display-1,
-.display-5 {
-	background-color: red;  /* mimicking pkmn colors */
-	color: white;
+    font-family: Pokemon, Verdana, Tahoma, monospace;
 }
 
 .card {  /* override Bootstrap card border for more original GB Pkmn style */
-	border: 6px double black;
+    border: 6px double black;
 }
 
 table img { width: 60px; }
 
 ul {
-	list-style-image: url("img/pokeball-bullet-point.png");
+    list-style-image: url("img/pokeball-bullet-point.png");
 }
 
 .jumbotron {  /* general code to allow for full-width background images with text on top (hero) */
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	text-align: center;
-	color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
 }
 
 /* individual section background images below */
@@ -40,8 +32,40 @@ ul {
 
 .day-3 {background-image: url("img/heros/RC_marina.jpg");}
 
-.day-4 {background-image: url("img/heros/");}
+.day-4 {background-image: url("img/heros/mori_point_whales.jpg");}
 
-.day-5 {background-image: url("img/heros/");}
+.day-5 {background-image: url("img/heros/frisko.jpg");}
 
-.day-6 {background-image: url("img/heros/");}
+.day-6 {background-image: url("img/heros/mystery_island_event.png");}
+
+.day-7 {background-image: url("img/heros/fort_mason_people.png");}
+
+.day-8 {background-image: url("img/heros/fountain.jpg");}
+
+.day-9 {background-image: url("img/heros/treasure_view.jpg");}
+
+.day-10 {background-image: url("img/heros/balcony.jpg");}
+
+.day-11 {background-image: url("img/heros/bridge.jpg");}
+
+.day-12 {background-image: url("img/heros/embarcadero.jpg");}
+
+.day-13 {background-image: url("img/heros/golden_bridge.jpg");}
+
+.day-14 {background-image: url("img/heros/coastal_view.jpg");}
+
+.day-15 {background-image: url("img/heros/muir_beach.jpg");}
+
+.day-16 {background-image: url("img/heros/baywater.jpg");}
+
+.day-17 {background-image: url("img/heros/snorlax_sleeping.png");}
+
+.day-18 {background-image: url("img/heros/Pokémon_Center_inside_RBY.png");}
+
+.day-19 {background-image: url("img/heros/banner.png");}
+
+.day-20 {background-image: url("img/heros/ferryride.jpg");}
+
+.day-21 {background-image: url("img/heros/evolutions.png");}
+
+.day-22 {background-image: url("img/heros/banner.png");}
