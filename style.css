@@ -7,6 +7,14 @@ body {
 	font-family: Pokemon, Verdana, Tahoma, monospace;
 }
 
+h1,
+h2,
+.display-1,
+.display-5 {
+	background-color: red;  /* mimicking pkmn colors */
+	color: white;
+}
+
 .card {  /* override Bootstrap card border for more original GB Pkmn style */
 	border: 6px double black;
 }
