@@ -87,7 +87,7 @@ raw = Template("""<!DOCTYPE html>
                                             {% if k == 'image' or k == 'tinyimage' %}
                                                 <td>
                                                     {% for img in row[k] %}
-                                                        <img src="img/pkm_sprites/{{ img }}">
+                                                        <img src="" data-src="img/pkm_sprites/{{ img }}">
                                                     {% endfor %}
                                                 </td>
                                             {% else %}
@@ -124,6 +124,22 @@ raw = Template("""<!DOCTYPE html>
         </div>
     </div>
     </div>
+    <script type="text/javascript">
+        refresh_handler = function(e) {
+        var elements = document.querySelectorAll("*[data-src]");
+        for (var i = 0; i < elements.length; i++) {
+                var boundingClientRect = elements[i].getBoundingClientRect();
+                if (elements[i].hasAttribute("data-src") && boundingClientRect.top < window.innerHeight) {
+                    elements[i].setAttribute("src", elements[i].getAttribute("data-src"));
+                    elements[i].removeAttribute("data-src");
+                }
+            }
+        };
+
+        window.addEventListener('scroll', refresh_handler);
+        window.addEventListener('load', refresh_handler);
+        window.addEventListener('resize', refresh_handler);
+    </script>
 </body>
 </html>""")
 
