@@ -7,6 +7,10 @@ body {
     font-family: Pokemon, Verdana, Tahoma, monospace;
 }
 
+.container {
+    max-width: 720px;
+}
+
 .card {  /* override Bootstrap card border for more original GB Pkmn style */
     border: 6px double black;
 }
@@ -15,6 +19,12 @@ table img { width: 60px; }
 
 ul {
     list-style-image: url("img/pokeball-bullet-point.png");
+}
+
+.display-1,
+.display-5 {
+    background-color: red;
+    color: white;
 }
 
 .jumbotron {  /* general code to allow for full-width background images with text on top (hero) */
@@ -26,7 +36,7 @@ ul {
 }
 
 /* individual section background images below */
-.day-1 {background-image: url("img/heros/banner.jpg");}
+.day-1 {background-image: url("img/heros/banner.png");}
 
 .day-2 {background-image: url("img/heros/banner.png");}
 
@@ -38,7 +48,7 @@ ul {
 
 .day-6 {background-image: url("img/heros/mystery_island_event.png");}
 
-.day-7 {background-image: url("img/heros/fort_mason_people.png");}
+.day-7 {background-image: url("img/heros/fort_mason_people.jpg");}
 
 .day-8 {background-image: url("img/heros/fountain.jpg");}
 

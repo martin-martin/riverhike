@@ -39,7 +39,7 @@ raw = Template("""<!DOCTYPE html>
             </div>
         </div>
         {% else %}
-        <div class="col-xs-12 col-md-6 col-lg-4 mb-4">
+        <div class="col-12 mb-4">
             <div class="card">
                 <div class="card-body">{{ n['text'] }}</div>
             </div>
@@ -56,10 +56,11 @@ raw = Template("""<!DOCTYPE html>
         <section class="container">
             <div class="row">
             {% for n in s['notes'] %}
-                <div class="col-xs-12 col-md-6 col-xl-4 mb-4">
+                <!-- <div class="col-xs-12 col-md-6 col-xl-4 mb-4"> -->
+                <div class="col-12 mb-4">
                     <div class="card">
                         {% if n.get('image') %}
-                        <img class="card-img-top h-100" src="img/25_percent/{{ n['image'] }}" alt="two gyms">
+                        <img class="card-img-top h-100" src="img/full_size/{{ n['image'] }}" alt="phone screenshot">
                         {% endif %}
                         <div class="card-body">{{ n['text'] }}</div>
                     </div>
@@ -67,7 +68,7 @@ raw = Template("""<!DOCTYPE html>
             {% endfor %}
             {% if s.get('tables') %}
             {% for t in s['tables'].keys() %}
-                <div class="col mb-4">
+                <div class="col-12 mb-4">
                     <div class="card">
                         <h3 class="card-title mx-auto d-block m-4">{{ s['tables'][t]['title'] }}</h3>
                         <div class="table-responsive">
@@ -75,7 +76,7 @@ raw = Template("""<!DOCTYPE html>
                                 <thead>
                                     <tr>
                                         {% for h in s['tables'][t]['header'] %}
-                                        <th scope="col">{{ h }}</th>
+                                        <th scope="col"><strong>{{ h }}</strong></th>
                                         {% endfor %}
                                     </tr>
                                 </thead>
@@ -109,20 +110,18 @@ raw = Template("""<!DOCTYPE html>
     </div>
     <div class="container-fluid">
     <img src="img/{{ data['footer']['image'] }}" class="img-responsive mx-auto d-block pb-5" alt="the author's avatar with bike and pokeballs">
-    <div class="jumbotron">
-      <div class="container">
-        <h1 class="display-4">Some Resources</h1>
+    <div class="container">
+        <h1 class="display-5">Some Resources</h1>
         <ul>
         {% for res in data['footer']['resources'] %}
-        <li>{{ res['title'] }}: <a href="{{ res['url'] }}" target="_blank">{{ res['url'] }}</a></li>
+            <li><a href="{{ res['url'] }}" target="_blank">{{ res['title'] }}</a></li>
         {% endfor %}
         </ul>
-      </div>
-    </div>
-    <div class="text-muted small">
-    {% for entry in data['footer']['me'] %}
-    <p>{{ entry }}</p>
-    {% endfor %}
+        <div class="text-muted small">
+        {% for entry in data['footer']['me'] %}
+            <p class="text-right">{{ entry }}</p>
+        {% endfor %}
+        </div>
     </div>
     </div>
 </body>
@@ -144,6 +143,10 @@ body {
     font-family: Pokemon, Verdana, Tahoma, monospace;
 }
 
+.container {
+    max-width: 720px;
+}
+
 .card {  /* override Bootstrap card border for more original GB Pkmn style */
     border: 6px double black;
 }
@@ -152,6 +155,12 @@ table img { width: 60px; }
 
 ul {
     list-style-image: url("img/pokeball-bullet-point.png");
+}
+
+.display-1,
+.display-5 {
+    background-color: red;
+    color: white;
 }
 
 .jumbotron {  /* general code to allow for full-width background images with text on top (hero) */
@@ -171,5 +180,5 @@ for i, s in enumerate(data['body'], start=1):
 with open('style.css', 'w') as style:
     style.write(css)
 
-with open('indexxx.html', 'w') as index:
+with open('index.html', 'w') as index:
     index.write(html)

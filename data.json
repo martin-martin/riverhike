@@ -15,7 +15,7 @@
     {
      "hero": {
        "title": "Preparations",
-       "background": "banner.jpg"
+       "background": "banner.png"
      },
       "notes": [
         {"text": "Before leaving on the trip, I have practiced throws with Rattatas (en masse), done evolutions with Pidgeys, and got lucky when hatching two 10k eggs!"},
@@ -64,7 +64,7 @@
         {"text": "Other things turn off less easily. I found out why there are official people sitting all day and all night at the train crossings:"},
         {
           "text": "<a href=\"http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/\" target=\"_blank\">Suicides</a>...\n: (",
-          "image": "suicide_prevention.png"
+          "image": "suicide_prevention.jpeg"
         },
         {"text":  "I enjoy being part of a Pokémon Go whatsapp group of some people from San Francisco. They all feel very nice and it's sweet to have some company, even if only remotley. Maybe the fact that it's remotely makes it even easier. Some wrote about interesting spawning grounds around the Bay, and I'll go ahead and sum up that information so I can adapt my route accordingly ->"},
         {"text":  "<ul><li>Dolores Park (Aerodactyl)</li>\n<li>Golden Gate Park = GGP</li>\n<li>Land's End</li>\n<li>Beach Chalet</li>\n<li>Fort Mason (Presidio)</li>\n<li>Stow Lake (inside GGP) (Evee, Bulbasaur, Psyduck, Snorlax)</li>\n<li>Inner Sunset 11th Ave x Irving Street Corner (Gengar)</li>\n<li>Y2E2 Stanford Campus (Lickitung)</li>\n<li>Judah St x 38th St (Dragonite)</li>\n<li>Los Cerritos Community Center (Park): Fremont Dratini nest</li>\n<li>Embarcadero (Dratini)</li>\n<li>WALK: Ferry Building -> Fort Mason -> Beach Chalet (Dratinis, Bulbasaurs, Squirltes)</li>\n<li>Great Highway, La Play Street (Lapras)</li>\n<li>Castro x Liberty St. (Onix)</li>\n<li>Grand View Park, Sunset Neighborhood (Onix)</li>\n<li>Berkeley Marina (Lapras)</li>\n<li>Stern Grove (Abra)</li>\n<li>Lake Merced (Venusaur)</li>\n<li>Berkeley: Martin Luther King Jr. Way x Channing Way (Venusaur, Dragonite)</li></ul>"},
@@ -158,7 +158,7 @@
         },
         {
           "text": "",
-          "image": "first_double_gym_win_spot.png"
+          "image": "first_double_gym_win_spot.jpg"
         },
         {"text": "There's this thing about Pokémon, that was also in a way present in the Gamboy games - that there are these few strong mons that it makes sense to have and train (or feed, in the case of GO). Therefore it ends up being a rather boring selection of always the same Pokémon hovering above the gym towers."},
         {"text": "Today I also started using the Pokéradar - in order to then walk and look for a specific mon. It was fun! I got a Kabuto like that, and the funnest part was pedaling fast towards a Kingler... I knew my chances to be there on time were slim, and indeed it had vanished before I arrived. Hm... I was thinking that this travel is so far a very slow one, and maybe it is actually a Pokémon travel : )"},
@@ -796,7 +796,7 @@
     {
      "hero": {
        "title": "Day 5 - From Fort Mason all along Embarcadero",
-       "background": "fort_mason_people.png"
+       "background": "fort_mason_people.jpg"
      },
       "notes": [
         {
@@ -1016,7 +1016,7 @@
         },
         {
           "text": "Cupid's Span is such a hotspot! ;)",
-          "image": "charmander.png"
+          "image": "charmander.jpg"
         },
         {
           "text": "And Treasure Island is <a href='https://en.wikipedia.org/wiki/Treasure_Island,_San_Francisco#Remediation_and_redevelopment' target='_blank'>weird and very interesting</a>.",
@@ -1300,7 +1300,7 @@
         },
         {
           "text": "",
-          "image": "center_of_the_city.png"
+          "image": "center_of_the_city.jpg"
         }
       ],
       "tables": {
@@ -1328,8 +1328,8 @@
                   "notes": "cute caterpillar"
               },
               {
-                  "image": ["???.png"],
-                  "pokémon": "missingno.png",
+                  "image": ["missingno.png"],
+                  "pokémon": "Missingno.",
                   "notes": "that's the 4.4k-mon that didn't hatch yet"
               }
           ]
@@ -1435,7 +1435,7 @@
         },
         {
           "text": "<strong>Later that day:</strong>\nOh dear! I popped a lucky egg in my pocket. Accidentally.\nIn Sausalito.",
-          "image": "accident_luck.png"
+          "image": "accident_luck.jpg"
         },
         {
           "text": "That meant a lot of evolving, some trying to get back into cellphone reception, some restarting the app...\nI managed to get around 30000XP from it still. Haha, what a ride!",
@@ -1467,7 +1467,7 @@
         },
         {
           "text": "",
-          "image": "evening_view_panorama.png"
+          "image": "evening_view_panorama.jpg"
         }
       ],
       "tables": {
@@ -1532,7 +1532,7 @@
         },
         {
           "text": "",
-          "image": "fog_view_sunny.png"
+          "image": "fog_view_sunny.jpg"
         },
         {
           "text": "Making my way down the windy slopes to Muir Woods (my Safari Zone), I felt quite excited about hiking. There wouldn't be that many Pokémon to catch, though. My phone had 0 reception and the app didn't even want to start up. But hei!\n<strong>Bugs and troubles!</strong>\nThat does sound like Safari Zone!",
@@ -1544,7 +1544,7 @@
         },
         {
           "text": "",
-          "image": "muir_woods.png"
+          "image": "muir_woods.jpg"
         },
         {
           "text": "I like and respect this US American thing, that many people go outside into nature as their free time activity. Families do, friends go, it's really much more a thing than in other countries. Even if this also brings a weird bunch of people into the woods, and even if nature appreciation doesn't go much farther than walking the smallest loop. It's still more than other folks come up with! I wonder how one can become fat when movement is such a natural part of one's culture.",
@@ -1564,11 +1564,11 @@
         },
         {
           "text": "",
-          "image": "muir_pidgey_nearby.png"
+          "image": "muir_pidgey_nearby.jpg"
         },
         {
           "text": "",
-          "image": "muir_meeting_pidgey.png"
+          "image": "muir_meeting_pidgey.jpg"
         },
         {
           "text": "There was a surprising number and diversity that I found up there on the ridge of the Coastal View Trail: MuirPidgey, MuirBell, MuirFairy, Krabby, Poliwag, Nidoran male, Zubat, Weedle, Evee, and even a Butterfree and a Pinsir! So if anyone wonders what a hike in nature can yield in catches, here's a screenshot-list:",
@@ -1576,11 +1576,11 @@
         },
         {
           "text": "",
-          "image": "muir_catches1.png"
+          "image": "muir_catches1.jpg"
         },
         {
           "text": "",
-          "image": "muir_catches2.png"
+          "image": "muir_catches2.jpg"
         },
         {
           "text": "Loosely quoting a local hero: When going into nature, one always receives more than one was looking for.",
@@ -1683,11 +1683,11 @@
         },
         {
           "text": "",
-          "image": "reddit_new_tracker.png"
+          "image": "reddit_new_tracker.jpg"
         },
         {
           "text": "",
-          "image": "update_specs.png"
+          "image": "update_specs.jpg"
         },
         {
           "text": "Waiting for all those MBs to find their way into my little phone, I was getting myself excited about another change in the game mechanics. This truly is what I enjoy the most - that there are so many different ways that I have already been playing this game and it seems to be offering more to come. It's very fluid at the moment and still changes, but also allows different approaches through the way it is set up. Looking forward to seeing what this new tracker might bring. : )",
@@ -1699,7 +1699,7 @@
         },
         {
           "text": "<- Nope. : )",
-          "image": "no_new_tracker.png"
+          "image": "no_new_tracker.jpg"
         }
       ],
       "tables": {
@@ -1758,7 +1758,7 @@
         },
         {
           "text": "An Onix like the Berkeley campus tower!",
-          "image": "onix_appears.png"
+          "image": "onix_appears.jpg"
         },
         {
           "text": "",
@@ -1871,7 +1871,7 @@
           ],
           "content": [
               {
-                  "tinyimage": "missingno.png",
+                  "tinyimage": ["missingno.png"],
                   "pokémon": "",
                   "where?": "",
                   "notes": ""
@@ -1906,7 +1906,7 @@
           ],
           "content": [
               {
-                  "tinyimage": "missingno.png",
+                  "tinyimage": ["missingno.png"],
                   "pokémon": "Missingno.",
                   "where?": "",
                   "notes": ""
@@ -1931,7 +1931,7 @@
         },
         {
           "text": "Finally enough earnings for more storage space. I decided for the bag upgrade, because since I've found a way to order the mons, they have never been filling up my box too much.",
-          "image": "bag_upgrade.png"
+          "image": "bag_upgrade.jpg"
         },
         {
           "text": "I also had a great time with my hosts over self-made Sushi and me-made Kaiserschmarrn. Food was great and we had a ton of interesting conversation. Happy me. : D",
@@ -1953,7 +1953,7 @@
           ],
           "content": [
               {
-                  "tinyimage": "jolteon.png",
+                  "tinyimage": ["jolteon.png"],
                   "pokémon": "Jolteon",
                   "where?": "just here, inside the Pkmn Center",
                   "notes": "I wanted another strong(ish) ElektromonI've got a 91% Raichu. Good but not strong enoughSparkz has 89% but a bit more CP (currently 1440)"
@@ -1974,19 +1974,19 @@
         },
         {
           "text": "Haha maybe Mew pops up from behind a truck ; ) ... Not.",
-          "image": "walk_to_ferry_with_ferry.png"
+          "image": "walk_to_ferry_with_ferry.jpg"
         },
         {
           "text": "",
-          "image": "ferry.png"
+          "image": "ferry.jpg"
         },
         {
           "text": "There is one tip for Pokémon trainers going to the ferry building in SF to catch: While the lower floor demands navigating through hordes of people...",
-          "image": "ferry_bldg_down.png"
+          "image": "ferry_bldg_down.jpg"
         },
         {
           "text": "...the upper floor accesses everything in calming solitude!",
-          "image": "ferry_bldg_up.png"
+          "image": "ferry_bldg_up.jpg"
         },
         {
           "text": "The views across the Bay were breathtaking. It was great to look here and there and know that I've been passing that bridge some days earlier, and been biking those hills just before. It feels that I got to know the Bay somewhat, and Pokémon Go was with me all the time and made me move from here to there.",
@@ -2010,7 +2010,7 @@
         },
         {
           "text": "Here's a waving Staryu welcoming me at Vallejo's shore",
-          "image": "welcome_to_vallejo.png"
+          "image": "welcome_to_vallejo.jpg"
         },
         {
           "text": "I think my Pokétour is over.Has been for a few days. Other things were and are more present. It was fun! How long did it last exactly, how many days? Not sure... : ) But i had a good time and it gave me a reason and a way to travel. Later on it changed and the original intent dissolved, but that's okay. Things change during a travel, it's good to be open for this.",
@@ -2085,7 +2085,7 @@
         },
         {
           "text": "... and now choose one!",
-          "image": "pre_evo_dratinis.png"
+          "image": "pre_evo_dratinis.jpg"
         },
         {
           "text": "Here's my reasoning: In the close selection I have a Dratini with CP 595 and 82% IV, and another one with CP 417 and 96% IV. While I am inclined to evolve the 96% one, Dratinis are very rare and will probably be even less common in the rural areas I am going to. So I <a href=\"http://pogotoolkit.com/\" target==\"_blank\">checked what CP to expect</a> and I <a href=\"https://buimichael.github.io/pokemongo-Stardust-Calculator/\" target==\"_blank\">checked how much Candy (and Stardust) I'll need</a>. And I also <a href=\"https://www.pgnexus.gg/\" target==\"_blank\">considered the Stats</a>.\nI'll pop these values into a table and then take my decisions.",
@@ -2116,7 +2116,7 @@
           "image": ""
         },
         {
-          "text": "... (You can now go check the Results in the tables above)",
+          "text": "... (You can now go check the Results in the tables below)",
           "image": ""
         },
         {
@@ -2125,11 +2125,11 @@
         },
         {
           "text": "",
-          "image": "post_evolving1.png"
+          "image": "post_evolving1.jpg"
         },
         {
           "text": "",
-          "image": "post_evolving2.png"
+          "image": "post_evolving2.jpg"
         },
         {
           "text": "So let's get myself out there and walking, to test my mons in Stanford's gyms!",
@@ -2145,11 +2145,11 @@
         },
         {
           "text": "",
-          "image": "30_pickup.png"
+          "image": "30_pickup.jpg"
         },
         {
           "text": "",
-          "image": "5_assigned.png"
+          "image": "5_assigned.jpg"
         }
       ],
       "tables": {
@@ -2457,7 +2457,19 @@
           "image": ""
         },
         {
-          "text": "<em>               game released</em>\n1. Looking at others walking in groups\n<em>               understood what this is about</em>\n               <em>downloaded the game</em>",
+          "text": "<em>game released</em>",
+          "image": ""
+        },
+        {
+          "text": "1. Looking at others walking in groups",
+          "image": ""
+        },
+        {
+          "text": "<em>understood what this is about</em>",
+          "image": ""
+        },
+        {
+          "text": "<em>downloaded the game</em>",
           "image": ""
         },
         {
@@ -2465,7 +2477,11 @@
           "image": ""
         },
         {
-          "text": "3. Walking and wondering how to film all this action going on\n               <em>three-step-glitch introduced</em>",
+          "text": "3. Walking and wondering how to film all this action going on",
+          "image": ""
+        },
+        {
+          "text": "<em>three-step-glitch introduced</em>",
           "image": ""
         },
         {
@@ -2477,15 +2493,27 @@
           "image": ""
         },
         {
-          "text": "6. Collecting Pidgeys for Evolution-sprees\n               <em>started the pokémon bike travel</em>",
+          "text": "6. Collecting Pidgeys for Evolution-sprees",
           "image": ""
         },
         {
-          "text": "7. Catching random mons that appear along my way\n               <em>got to know Pokéradar</em>",
+          "text": "<em>started the pokémon bike travel</em>",
           "image": ""
         },
         {
-          "text": "8. Speeding from here to there to find specific special mons\n               <em>mystery island event</em>",
+          "text": "7. Catching random mons that appear along my way",
+          "image": ""
+        },
+        {
+          "text": "<em>got to know Pokéradar</em>",
+          "image": ""
+        },
+        {
+          "text": "8. Speeding from here to there to find specific special mons",
+          "image": ""
+        },
+        {
+          "text": "<em>mystery island event</em>",
           "image": ""
         },
         {
@@ -2493,7 +2521,11 @@
           "image": ""
         },
         {
-          "text": "10. Walking around with others, catching together\n               <em>got to know about IVs</em>",
+          "text": "10. Walking around with others, catching together",
+          "image": ""
+        },
+        {
+          "text": "<em>got to know about IVs</em>",
           "image": ""
         },
         {
@@ -2501,27 +2533,51 @@
           "image": ""
         },
         {
-          "text": "12. Sorting through boxes endlessly, with changing naming systems\n               <em>outside in the middle of nowhere</em>",
+          "text": "12. Sorting through boxes endlessly, with changing naming systems",
           "image": ""
         },
         {
-          "text": "13. If there’s only one path, you know what will pop up next\n               <em>new tracker introduced</em>",
+          "text": "<em>outside in the middle of nowhere</em>",
           "image": ""
         },
         {
-          "text": "14. Getting confused by the grass in the sprites\n               <em>new tracker works in the city!</em>",
+          "text": "13. If there’s only one path, you know what will pop up next",
           "image": ""
         },
         {
-          "text": "15. Running to the indicated Pokéstops to actual find the indicated Pokémon\n               <em>going by ferry</em>",
+          "text": "<em>new tracker introduced</em>",
           "image": ""
         },
         {
-          "text": "16. I just looked at the pretty view! : )\n               <em>going by bus</em>",
+          "text": "14. Getting confused by the grass in the sprites",
           "image": ""
         },
         {
-          "text": "17. Can't really play while going by bus\n               <em>last days coming around</em>",
+          "text": "<em>new tracker works in the city!</em>",
+          "image": ""
+        },
+        {
+          "text": "15. Running to the indicated Pokéstops to actual find the indicated Pokémon",
+          "image": ""
+        },
+        {
+          "text": "<em>going by ferry</em>",
+          "image": ""
+        },
+        {
+          "text": "16. I just looked at the pretty view! : )",
+          "image": ""
+        },
+        {
+          "text": "<em>going by bus</em>",
+          "image": ""
+        },
+        {
+          "text": "17. Can't really play while going by bus",
+          "image": ""
+        },
+        {
+          "text": "<em>last days coming around</em>",
           "image": ""
         },
         {
@@ -2533,11 +2589,19 @@
           "image": ""
         },
         {
-          "text": "20. \nWalking around trying to put mons into many gyms\n               <em>flying on a plane</em>",
+          "text": "20. Walking around trying to put mons into many gyms",
           "image": ""
         },
         {
-          "text": "21. Can’t play at all while flying on a plane...\n               <em>no more data on my phone</em>",
+          "text": "<em>flying on a plane</em>",
+          "image": ""
+        },
+        {
+          "text": "21. Can’t play at all while flying on a plane...",
+          "image": ""
+        },
+        {
+          "text": "<em>no more data on my phone</em>",
           "image": ""
         },
         {
@@ -2558,7 +2622,7 @@
         },
         {
           "text": "And ended when reaching Lv. 25",
-          "image": "level_25.png"
+          "image": "level_25.jpg"
         },
         {
           "text": "My Pokédex went from ~60 mons up to 118",
@@ -2566,11 +2630,11 @@
         },
         {
           "text": "",
-          "image": "byebay_task.png"
+          "image": "byebay_task.jpg"
         },
         {
           "text": "",
-          "image": "byebay_check.png"
+          "image": "byebay_check.jpg"
         },
         {
           "text": "It got dark in Go.\nSo I finished my round around the Bay. The East Bay happened much faster than I thought, but I simply wasn't healthy enough to continue the travel like before.",
