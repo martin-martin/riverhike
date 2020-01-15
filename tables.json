@@ -1,0 +1,1375 @@
+[
+    [
+        [
+            "Image",
+            "Pokémon",
+            "CP"
+        ],
+        [
+            [],
+            [
+                "jynx.png",
+                "Jynx",
+                "758"
+            ],
+            [
+                "lapras.png",
+                "Lapras",
+                "1200"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?"
+        ],
+        []
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "CP"
+        ],
+        [
+            [],
+            [
+                "rattata.png",
+                "Rattata",
+                "313"
+            ],
+            [
+                "nidoran female.png",
+                "Nidoran female",
+                "487"
+            ],
+            [
+                "pidgey.png",
+                "Pidgey",
+                "?"
+            ],
+            [
+                "scyther.png",
+                "Scyther",
+                "1152"
+            ],
+            [
+                "krabby.png",
+                "Krabby",
+                "433"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "CP",
+            "Where?",
+            "Caught?"
+        ],
+        []
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "CP"
+        ],
+        [
+            [],
+            [
+                "weedle.png",
+                "Weedle",
+                "233"
+            ],
+            [
+                "paras.png",
+                "Paras",
+                "502"
+            ],
+            [
+                "voltorb.png",
+                "Voltorb",
+                "467"
+            ],
+            [
+                "weedle.png",
+                "Weedle",
+                "234"
+            ],
+            [
+                "weedle.png",
+                "Weedle",
+                "237"
+            ],
+            []
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "CP",
+            "Where?",
+            "Caught?"
+        ],
+        [
+            [
+                "poliwag.png",
+                "Poliwag",
+                "233",
+                "Redwood Houseboat Harbor",
+                "Yep!"
+            ],
+            [
+                "kabuto.png",
+                "Kabuto",
+                "560",
+                "Redwood Houseboat Harbor",
+                "Yep!"
+            ],
+            [
+                "exeggcute.png",
+                "Exeggcute",
+                "468",
+                "Oracle Fountain",
+                "Yep!"
+            ],
+            [
+                "butterfree.png",
+                "Butterfree",
+                "5??",
+                "Oracle Fountain",
+                "Nope. It ate all my Pokéballs..."
+            ],
+            [
+                "slowpoke.png",
+                "Slowpoke",
+                "260",
+                "Oracle Fountain",
+                "Nope. No more balls after ^"
+            ],
+            [
+                "gastly.png",
+                "Gastly",
+                "426",
+                "Burlingame Starbucks",
+                "Yep! (spun some back)"
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "CP"
+        ],
+        [
+            [],
+            [
+                "zubat.png",
+                "Zubat",
+                "348"
+            ],
+            [
+                "weedle.png",
+                "Weedle",
+                "237"
+            ],
+            [
+                "horsea.png",
+                "Horsea",
+                "377"
+            ],
+            [
+                "sandshrew.png",
+                "Sandshrew",
+                "435"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "How many?",
+            "Where?",
+            "Infobox"
+        ],
+        [
+            [
+                "vulpix.png",
+                "Vulpix",
+                "1",
+                "Pacifica Pier Region",
+                "286 CP"
+            ],
+            [
+                "bellsprout.png",
+                "Bellsprout",
+                "5",
+                "Pacifica Pier Region",
+                "484 CP"
+            ],
+            [
+                "voltorb.png",
+                "Voltorb",
+                "2",
+                "Pacifica Pier Region",
+                "457 CP"
+            ],
+            [
+                "geodude.png",
+                "Geodude",
+                "3",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "poliwag.png",
+                "Poliwag",
+                "8",
+                "Pacifica Pier Region",
+                "Big brother leads the gym"
+            ],
+            [
+                "squirtle.png",
+                "Squirtle",
+                "2",
+                "Pacifica Pier Region",
+                "407 CP!"
+            ],
+            [
+                "horsea.png",
+                "Horsea",
+                "3",
+                "Pacifica Pier Region",
+                "also caught the evolution"
+            ],
+            [
+                "psyduck.png",
+                "Psyduck",
+                "5",
+                "Pacifica Pier Region",
+                "new to Pokédex!"
+            ],
+            [
+                "oddish.png",
+                "Oddish",
+                "4",
+                "Pacifica Pier Region",
+                "new to Pokédex!"
+            ],
+            [
+                "evee.png",
+                "Evee",
+                "3",
+                "Pacifica Pier Region, Linda Mar",
+                "533 CP"
+            ],
+            [
+                "magikarp.png",
+                "Magikarp",
+                "5",
+                "Pacifica Pier Region, Linda Mar",
+                "15.31kg, 1.11m, CP 11..."
+            ],
+            [
+                "machop.png",
+                "Machop",
+                "1",
+                "Pacifica Pier Region",
+                "576"
+            ],
+            [
+                "gastly.png",
+                "Gastly",
+                "3",
+                "Pacifica Pier Region, Linda Mar",
+                ""
+            ],
+            [
+                "seel.png",
+                "Seel",
+                "3",
+                "Pacifica Pier Region",
+                "but many more around..."
+            ],
+            [
+                "exeggcute.png",
+                "Exeggcute",
+                "2",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "staryu.png",
+                "Staryu",
+                "2",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "goldeen.png",
+                "Goldeen",
+                "3",
+                "Pacifica Pier Region",
+                "new to Pokédex"
+            ],
+            [
+                "charmander.png",
+                "Charmander",
+                "2",
+                "Pacifica Pier Region",
+                "Yay! My starter x2"
+            ],
+            [
+                "nidoran female.png",
+                "Nidoran female",
+                "2",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "nidoran male.png",
+                "Nidoran male",
+                "3",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "tangela.png",
+                "Tangela",
+                "1",
+                "Pacifica Pier",
+                "Whoa! Caught it with my final Pokéball! CP 806!"
+            ],
+            [
+                "sandshrew.png",
+                "Sandshrew",
+                "4",
+                "Pacifica Pier Region, Southern End",
+                "Quite some around"
+            ],
+            [
+                "drowzee.png",
+                "Drowzee",
+                "1",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "seadra.png",
+                "Seadra",
+                "1",
+                "Pacifica Pier Region",
+                "New to Pokédex!"
+            ],
+            [
+                "magnemite.png",
+                "Magnemite",
+                "1",
+                "Pacifica Pier Region",
+                "New to Pokédex!"
+            ],
+            [
+                "shellder.png",
+                "Shellder",
+                "2",
+                "Pacifica Pier Region, next to Gorilla Guy",
+                "New to Pokédex!"
+            ],
+            [
+                "krabby.png",
+                "Krabby",
+                "3",
+                "Pacifica Pier Region, Linda Mar",
+                ""
+            ],
+            [
+                "weedle.png",
+                "Weedle",
+                "4",
+                "Pacifica Pier Region",
+                "there are more around"
+            ],
+            [
+                "electabuzz.png",
+                "Electabuzz",
+                "1",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "graveler.png",
+                "Graveler",
+                "1",
+                "Pacifica, Linda Mar",
+                ""
+            ],
+            [
+                "charmeleon.png",
+                "Charmeleon",
+                "1",
+                "Pacifica Pier Region",
+                ""
+            ],
+            [
+                "sandslash.png",
+                "Sandslash",
+                "1",
+                "Pacifica Pier Region",
+                "903 CP!!"
+            ],
+            [
+                "golduck.png",
+                "Golduck",
+                "1",
+                "Pacifica, Linda Mar",
+                "1203 CP! wow."
+            ],
+            [
+                "ponyta.png",
+                "Ponyta",
+                "4",
+                "Pacifica Pier Region",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon"
+        ],
+        [
+            [],
+            [
+                "pidgey.png",
+                "Pidgey"
+            ],
+            [
+                "paras.png",
+                "Paras"
+            ],
+            [
+                "magnemite.png",
+                "Magnemite"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?"
+        ],
+        [
+            [
+                "dodrio.png",
+                "Dodrio",
+                "San Francisco Market Street"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?"
+        ],
+        [
+            [
+                "magikarps.png",
+                "Magikarps",
+                "down the stairs"
+            ],
+            [
+                "squirtles!.png",
+                "Squirtles!",
+                "up the stairs"
+            ],
+            [
+                "psyducks.png",
+                "Psyducks",
+                "down the stairs"
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                "clefairy.png",
+                "Clefairy",
+                ""
+            ],
+            [
+                "caterpie.png",
+                "Caterpie",
+                ""
+            ],
+            [
+                "magikarp.png",
+                "Magikarp",
+                ""
+            ],
+            [
+                "zubat.png",
+                "Zubat",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "gloom.png",
+                "Gloom",
+                "Starbucks Marina District",
+                "maybe a bad choice, because I gave away my double points for a new evolution..."
+            ],
+            [
+                "koffing.png",
+                "Koffing",
+                "Starbucks Marina District",
+                ""
+            ],
+            [
+                "magikarp.png",
+                "Magikarp",
+                "Along Embarcadero",
+                "many"
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                "horsea.png",
+                "Horsea",
+                "21% above avg, XL"
+            ],
+            [
+                "sandshrew.png",
+                "Sandshrew",
+                "got a good rating"
+            ],
+            [
+                "charmander.png",
+                "Charmander",
+                "18% above avg"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "rattatapidgeyekans.png",
+                "Rattatapidgeyekans",
+                "Stanford University Campus",
+                "oh so many!"
+            ],
+            [
+                "dugtrio.png",
+                "Dugtrio",
+                "Somewhere Santa Clara",
+                "while biking along to the airport"
+            ],
+            [
+                "magmar.png",
+                "Magmar",
+                "Fair Oaks Park, Sunnyvale",
+                "Looking for a sleeping spotnext to sports groundssuddenly this Magmar popped up"
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                "pidgey.png",
+                "Pidgey",
+                ""
+            ],
+            [
+                "bellsprout.png",
+                "Bellsprout",
+                "20% above avg!"
+            ],
+            [
+                "onix.png",
+                "Onix",
+                "it hatched while I was biking.when looking at the phone,it was suddenly there!"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "charmander.png",
+                "Charmander",
+                "Embarcadero, Cupid's Span",
+                "oh so many!"
+            ],
+            [
+                "bulbasaur.png",
+                "Bulbasaur",
+                "Embarcadero, Cupid's Span",
+                "just one"
+            ],
+            [
+                "squirtle.png",
+                "Squirtle",
+                "Embarcadero, Cupid's Span",
+                "also only one"
+            ],
+            [
+                "pinsir.png",
+                "Pinsir",
+                "Embarcadero, Cupid's Span",
+                "a lot of these"
+            ],
+            [
+                "tauros.png",
+                "Tauros",
+                "Embarcadero, Cupid's Span",
+                "some of these (US only!)"
+            ],
+            [
+                "aerodactyl.png",
+                "Aerodactyl",
+                "Embarcadero, under Bay Bridge",
+                ": o"
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                "caterpie.png",
+                "Caterpie",
+                "37% better total, XL"
+            ],
+            [
+                "machop.png",
+                "Machop",
+                "CP591, 9-15% above avg"
+            ],
+            [
+                "pidgey.png",
+                "Pidgey",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "bulbasaur.png",
+                "Bulbasaur",
+                "Bernal Heights",
+                "chilly windy foggy sweet"
+            ],
+            [
+                "kingler.png",
+                "Kingler",
+                "Dolores Park",
+                "decided to catch it in the wildinstead of waiting for the evolution"
+            ],
+            [
+                "clefairy.png",
+                "Clefairy",
+                "Noe Valley",
+                "everywhere! many!"
+            ],
+            [
+                "zubat.png",
+                "Zubat",
+                "Noe Valley",
+                "allover SF..."
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                "poliwag.png",
+                "Poliwag",
+                "tiny tadpole"
+            ],
+            [
+                "slowpoke.png",
+                "Slowpoke",
+                "lazy lazybones"
+            ],
+            [
+                "caterpie.png",
+                "Caterpie",
+                "cute caterpillar"
+            ],
+            [
+                "???.png",
+                "???",
+                "that's the 4.4k-mon that didn't hatch yet"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "some of the (slightly) rarer ones.png",
+                "some of the (slightly) rarer ones",
+                "Along the way",
+                "the residential areas are very, very empty!"
+            ],
+            [
+                "pidgey swarm.png",
+                "Pidgey Swarm",
+                "Around Golden Gate Bridge",
+                "just what I needed :)"
+            ],
+            [
+                "alakazam.png",
+                "Alakazam",
+                "Golden Gate Bridge Visitor Center",
+                "first a shadow, then the real thing. wow!and it's actually a good one! +14% above avg."
+            ]
+        ]
+    ],
+    [
+        [
+            "Image",
+            "Pokémon",
+            "Notes"
+        ],
+        [
+            [],
+            [
+                ".png",
+                "",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                ".png",
+                "",
+                "",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "zubat hatchling.png",
+                "Zubat hatchling",
+                "Cruising towards GGB",
+                "What a grand surprise..."
+            ],
+            [
+                "goldenkarp.png",
+                "GoldenKarp",
+                "Golden Gate Bridge",
+                "That one is gonna kick ass!"
+            ],
+            [
+                "rhydon.png",
+                "Rhydon",
+                "Vista Point near GGB",
+                ""
+            ],
+            [
+                "marowak.png",
+                "Marowak",
+                "Vista Point near GGB",
+                ""
+            ],
+            [
+                "koffing.png",
+                "Koffing",
+                "Sausalito",
+                "Where there is sunshine again"
+            ],
+            [
+                "dratini.png",
+                "Dratini",
+                "Sausalito",
+                "Where there is sunshine again, and sea"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "tentacool.png",
+                "Tentacool",
+                "On the serpentines down to Muir Woods",
+                ""
+            ],
+            [
+                "muirpidgey.png",
+                "MuirPidgey",
+                "Coastal View Trail",
+                "My first catch in the Safari Zone"
+            ],
+            [
+                "evee.png",
+                "Evee",
+                "Hm... Maybe up on the ridge!",
+                "hope she'll be good!"
+            ],
+            [
+                "butterfree.png",
+                "Butterfree",
+                "Coastal View Trail",
+                "It fitted very beautifully out there in nature"
+            ],
+            [
+                "pinsir.png",
+                "Pinsir",
+                "Coastal View Trail",
+                "Yay! Makes me remember the good old games..."
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "magibeach.png",
+                "Magibeach",
+                "Muir Beach",
+                "I had no Pokéballs left on that beach and\n\t\t\t\t\t\t\t\tthe battery was about to die... But I got that one\n\t\t\t\t\t\t\t\tas a memory ; )"
+            ],
+            [
+                "dratini.png",
+                "Dratini",
+                "Muir Beach",
+                "I didn't catch it! Got a pic on my VR screen\n\t\t\t\t\t\t\t\tbut it ran away... (only 2 more for a Dragonite!)"
+            ],
+            [
+                "magnemite.png",
+                "Magnemite",
+                "Somewhere on the way across the hills",
+                "Hatched with 490CP. Good for candy for sure!"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "sandshrew.png",
+                "Sandshrew",
+                "Richmond Marina",
+                "Oh! Sandshrew and Pidgey look so similar!"
+            ],
+            [
+                "pidgey.png",
+                "Pidgey",
+                "Richmond Marina",
+                "Ah..."
+            ],
+            [
+                "electrode.png",
+                "Electrode",
+                "Richmond Marina",
+                "the ball shilouette was there but I couldn't find it..."
+            ],
+            [
+                "caterpie.png",
+                "Caterpie",
+                "Maybe UC Berkeley",
+                "Well, it was 2ks"
+            ],
+            [
+                "dratini.png",
+                "Dratini",
+                "Berkeley Marina",
+                "I got 2, which makes me have enough for a Dragonite!"
+            ],
+            [
+                "magnemite.png",
+                "Magnemite",
+                "Berkeley Marina",
+                "2, plus one that ran. Only one more for Magneton"
+            ],
+            [
+                "machop.png",
+                "Machop",
+                "Noe Valley",
+                "Still missing quite some, but this is great!"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                ".png",
+                "",
+                "",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "missingno..png",
+                "Missingno.",
+                "",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "jolteon.png",
+                "Jolteon",
+                "just here, inside the Pkmn Center",
+                "I wanted another strong(ish) ElektromonI've got a 91% Raichu. Good but not strong enoughSparkz has 89% but a bit more CP (currently 1440)"
+            ]
+        ]
+    ],
+    [
+        [
+            "Tinyimage",
+            "Pokémon",
+            "Where?",
+            "Notes"
+        ],
+        [
+            [
+                "vulpix.png",
+                "Vulpix",
+                "Leaving the city",
+                "83% and plenty candy"
+            ],
+            [
+                "staryu.png",
+                "Staryu",
+                "Vallejo ferry building",
+                "it sat there to welcome me on the farthest North spotof my travels!"
+            ],
+            [
+                "dratini.png",
+                "Dratini",
+                "Vallejo ferry building",
+                "this one saves 3 from being traded for candy!"
+            ],
+            [
+                "weedle.png",
+                "Weedle",
+                "Stanford Palm Drive",
+                "and me, I hope for good IV!"
+            ],
+            [
+                "squirtle.png",
+                "Squirtle",
+                "Hoover Tower",
+                "Oh so sweet! 84%"
+            ]
+        ]
+    ],
+    [
+        [
+            "sMon",
+            "CP",
+            "IV%",
+            "Lv.",
+            "ATK",
+            "DEF",
+            "STA",
+            "eMon",
+            "minCP",
+            "maxCP",
+            "Dust>L25",
+            "Sweets>L25",
+            "Evolve",
+            "Result"
+        ],
+        [
+            [
+                "",
+                "595",
+                "82",
+                "22",
+                "15",
+                "11",
+                "11",
+                "",
+                "2161",
+                "2288",
+                "24,000",
+                "21",
+                "X",
+                "2158Steel Wing (15)Dragon Pulse (65)Ah... Hm... Well..."
+            ],
+            [
+                "",
+                "521",
+                "89",
+                "19",
+                "15",
+                "12",
+                "13",
+                "",
+                "1891",
+                "2003",
+                "40,000",
+                "35",
+                "",
+                ""
+            ],
+            [
+                "",
+                "417",
+                "96",
+                "15",
+                "15",
+                "15",
+                "13",
+                "",
+                "1514",
+                "1603",
+                "56,400",
+                "51",
+                "",
+                ""
+            ],
+            [
+                "",
+                "160",
+                "73",
+                "24",
+                "11",
+                "7",
+                "15",
+                "",
+                "1616",
+                "1888",
+                "11,000",
+                "9",
+                "",
+                ""
+            ],
+            [
+                "",
+                "143",
+                "87",
+                "20",
+                "15",
+                "13",
+                "11",
+                "",
+                "1444",
+                "1687",
+                "35,000",
+                "31",
+                "X",
+                "1514Bite (6)Twister (25)Oh dear! Please no... Not again!"
+            ],
+            [
+                "",
+                "78",
+                "89",
+                "12",
+                "13",
+                "13",
+                "14",
+                "",
+                "787",
+                "920",
+                "65,400",
+                "63",
+                "",
+                ""
+            ],
+            [
+                "",
+                "416",
+                "80",
+                "14",
+                "15",
+                "8",
+                "13",
+                "",
+                "V-1094F-1023J-832",
+                "V-1135F-1057J-873",
+                "59,600",
+                "55",
+                "F",
+                "Flareon - 1030Ember (10)Fire Blast (100)Not bad, but I just did it to reset the game."
+            ],
+            [
+                "",
+                "686",
+                "82",
+                "23",
+                "15",
+                "12",
+                "10",
+                "",
+                "V-1804F-1687J-1372",
+                "V-1872F-1744J-1440",
+                "18,000",
+                "15",
+                "V",
+                "Flareon - 1693Ember (10)Flamethrower (55)Wait... What?! But I thought I had reset by doing all name eevolutions! So my best one turned into a Flareon instead of Vaporeon and even with some medium moves! ajajaj..."
+            ],
+            [
+                "",
+                "678",
+                "76",
+                "23",
+                "15",
+                "10",
+                "9",
+                "",
+                "V-1783F-1667J-1356",
+                "V-1850F-1724J-1423",
+                "18,000",
+                "15",
+                "J",
+                "Jolteon - 1358Thunder Shock (5)Thunder (100)I did this one anyways 3/3 and Yay!here I got lucky - even got Thunder!"
+            ],
+            [
+                "",
+                "506",
+                "82",
+                "17",
+                "14",
+                "9",
+                "14",
+                "",
+                "V-1330F-1244J-1012",
+                "V-1381F-1286J-1062",
+                "48,800",
+                "43",
+                "",
+                ""
+            ]
+        ]
+    ],
+    [
+        [
+            "sMon",
+            "CP",
+            "IV%",
+            "Lv.",
+            "ATK",
+            "DEF",
+            "STA",
+            "eMon",
+            "minCP",
+            "maxCP",
+            "Dust>L25",
+            "Sweets>L25",
+            "Result"
+        ],
+        [
+            [
+                "",
+                "551",
+                "84",
+                "20",
+                "11",
+                "14",
+                "13",
+                "",
+                "1045",
+                "1943",
+                "35,000",
+                "31",
+                "1412Water Gun (6)Ice Beam (65)No Hydro Pump..."
+            ],
+            [
+                "",
+                "507",
+                "72",
+                "20",
+                "11",
+                "11",
+                "10",
+                "",
+                "1421",
+                "1541",
+                "35,000",
+                "31",
+                "1424Wing Attack (9)Dragon Claw (35)Oh my... That, that... oh..."
+            ],
+            [
+                "",
+                "620",
+                "87",
+                "20",
+                "11",
+                "11",
+                "10",
+                "",
+                "1402",
+                "1577",
+                "35,000",
+                "31",
+                "1417Razor Leaf (15)Solar Beam (120)Wow, seems here I got lucky!"
+            ],
+            [
+                "",
+                "704",
+                "69",
+                "23",
+                "11",
+                "10",
+                "10",
+                "",
+                "1540",
+                "1626",
+                "18,000",
+                "15",
+                "Oh dear! Not enough Candy!Result: literally ..."
+            ],
+            [
+                "",
+                "443",
+                "80",
+                "20",
+                "11",
+                "13",
+                "12",
+                "",
+                "1160",
+                "1173",
+                "35,000",
+                "31",
+                "1130Frost Breath (9)Hydro Pump (90)Yay! These moves look nice!"
+            ],
+            [
+                "",
+                "550",
+                "87",
+                "18",
+                "14",
+                "15",
+                "10",
+                "",
+                "1485",
+                "1749",
+                "44,400",
+                "39",
+                "1495Zen Headbutt (12)Seed Bomb (40)Oh dear... What moves..."
+            ]
+        ]
+    ]
+]
